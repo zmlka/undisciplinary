@@ -1,6 +1,6 @@
 ---
-layout: index
-title: undisciplinary — a personal wiki
+layout: default
+title: undisciplinary
 ---
 
 
