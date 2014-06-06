@@ -16,7 +16,7 @@ A double lecture organised by [KRUH](http://www.kruh.info/) as part of their ETH
 
 1. Starting off: the Blur Building by D+S (now DS+R). During design the blur building was thought of as anti-spectacle, yet, it became the biggest success of the 2002 Yverdon expo.
 2. Originally, the building was to be tied much closer to media. Visitors were to be given «smart» rainjackets which would display and simulate the emotions of their wearers based on defined criteria. For example, a raincoat would blush while being approached by a member of the opposite sex. The raincoats never happened.
-3. `I'm reminded of David Heymann's articles in on the environment written in Design Observer` `[link](http://designobserver.com/author/david-heymann/3878/)`
+3. `I'm reminded of David Heymann's articles in on the environment written in Design Observer` [link](http://designobserver.com/author/david-heymann/3878/)
 5. (Showing The Weather Project) Olafur Eliasson uses empathy as it links the sensual to the spiritual.
 6. After Rossi's stinch at ETH, Swiss architects started to consciously think beyond semiotics.
 7. Atmospheric tendencies in Swiss architecture were not a response to environmental thinking, but a change in architectural theory. A turn to *beyond the signs*.
