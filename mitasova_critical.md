@@ -10,7 +10,7 @@ habilitation process, I only knew about it via word of mouth, which is a shame
 as it was very good and quite unlike a typical architecture related
 presentation. 
 
-** Is Critical Architecture Possible?** 
+**Is Critical Architecture Possible?**
 
 Straight away it is clear that Monika will be explaining Peter Eisenman's views
 of/on critical architecture, referring almost purely to his work on Guiseppe
@@ -27,13 +27,13 @@ out:
    autonomous. Meaning it has it's own internal expression. 
 1. Some thoughts that were thrown around to help understand what is meant by
    critical architecture: 
-  1. critical architecture "demystifies" previous assumptions 
-  1. critical architecture is that which creates precedents. Meaning: that
-     which is alternate to the now. (think: the avant-garde is, by definition,
-     the forefront of the masses) 
-  1. critical architecture is that which allows for critical (ambiguous)
-     interpretations (problematic). This is very much related to the point
-     above. 
+    1. critical architecture "demystifies" previous assumptions 
+    1. critical architecture is that which creates precedents. Meaning: that
+       which is alternate to the now. (think: the avant-garde is, by
+       definition, the forefront of the masses) 
+    1. critical architecture is that which allows for critical (ambiguous)
+       interpretations (problematic). This is very much related to the point
+       above. 
 1. Practically everything in the Casa del Fascio was custom made, overseen by
    the architect. This allowed to house to be completely *new and *original*. 
   
@@ -44,8 +44,8 @@ Eisenman.
 
 1. Jiří Ševčík mentions something along the lines of "the problem of this
    approach is it's unsocial" 
-  1. It is unclear if he was referring to Eisenman's understanding of
-     architecture, or Terragni's building. 
+    1. It is unclear if he was referring to Eisenman's understanding of
+       architecture, or Terragni's building. 
 1. An overdressed (three piece suit, pocket square) man wanted clarification
    the role of post-factum interpretation 
 

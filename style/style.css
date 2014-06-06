@@ -8,14 +8,19 @@ html{
   text-rendering: optimizelLegibility;
   -webkit-font-smoothing: antialiased;
 
-  font-size: 12px;
-  font-family: monospace;
+  font-size: 11px;
+  font-family: Verdana, sans-serif;
   line-height: 1.5rem;
 }
+code{
+  font-family: Verdana, sans-serif;
+  color: #D41A1F;
+}
+
 
 a {
   color: #000;
-  text-decoration: none;
+  border-bottom: #7A378B solid 1px;
 }
 a,
 a:hover,
@@ -26,6 +31,7 @@ a:visited {
 a:hover {
   color: #7A378B;
 }
+
 p{
   margin-bottom: 20px;
 }
@@ -44,32 +50,43 @@ h3{
 }
 
 blockquote{
-  padding-left: 15px;
+  padding-left: 1.3rem;
   border-left: #c0c0c0 solid 1px;
   margin-left: 0px;
+}
+blockquote cite{
+    font-style:italic;
+}
+blockquote cite:before{
+    content: '      — ';
+}
+
+ol{
+  margin-bottom 1.2rem;
+}
+li{
+  margin-left: 4%;
+  margin-bottom: 0.3rem;
+}
+hr{
+    color:#c0c0c0;
+    border-top:1px solid;
+    width: 50%;
 }
 
 footer {
   margin-top: 20px;
   border-top: 1px solid #8C8C8C;
-  font-size: 10px;
   color: #8C8C8C;
 }
 footer p{
   letter-spacing: 1px;
 }
-footer a {
-  color: #7A378B;
-}
-footer a:hover {
-  color: #8C8C8C;
-}
-
 
 /* div IDs */
 
 #site{
-  max-width: 520px;
+  max-width: 460px;
   padding: 80px 4% 20px 4%;
 }
 
