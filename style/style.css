@@ -73,14 +73,15 @@ li{
 }
 hr{
     color:#c0c0c0;
-    border-top:1px solid;
     width: 50%;
+    margin-top: 3rem;
+    margin-bottom:3rem;
 }
 
 footer {
-  margin-top: 40px;
+  margin-top: 3.5rem;
   border-top: 1px solid #8C8C8C;
-  padding-top: 40px;
+  padding-top: 3.5rem;
   color: #8C8C8C;
 }
 footer p{
