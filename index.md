@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: undisciplinary — a personal wiki
 ---
 
