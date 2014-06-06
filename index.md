@@ -1,6 +1,6 @@
 ---
-layout: default
-title: undisciplinary
+layout:default
+title:undisciplinary
 ---
 
 
