@@ -21,6 +21,7 @@ code{
 a {
   color: #000;
   border-bottom: #7A378B solid 1px;
+  text-decoration: none;
 }
 a,
 a:hover,
@@ -37,16 +38,17 @@ p{
 }
 h1, h2, h3{
   margin:0 0 20px 0;
-  letter-spacing: 1px;
-  font-size: 1.1rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 
 h1{
-  text-transform:uppercase;
+  text-decoration: underline;
+  font-size: 1.2rem;
 }
 
 h3{
-  text-decoration: underline;
+  font-weight: normal;
 }
 
 blockquote{
@@ -62,7 +64,7 @@ blockquote cite:before{
 }
 
 ol{
-  margin-bottom 1.2rem;
+  margin-bottom: 1.2rem;
 }
 li{
   margin-left: 4%;

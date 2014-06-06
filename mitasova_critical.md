@@ -10,7 +10,7 @@ habilitation process, I only knew about it via word of mouth, which is a shame
 as it was very good and quite unlike a typical architecture related
 presentation. 
 
-**Is Critical Architecture Possible?**
+### Notes
 
 Straight away it is clear that Monika will be explaining Peter Eisenman's views
 of/on critical architecture, referring almost purely to his work on Guiseppe

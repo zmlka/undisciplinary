@@ -10,11 +10,9 @@ A double lecture organised by [KRUH](http://www.kruh.info/) as part of their
 ETH themed lecture series. Each presenter spoke for about an hour, with,
 surprising, no questions at the end.
 
-## Notes. 
+## Notes
 
-`My insertions/thoughts are formatted like this`.
-
-**Ákos Moravánskzy - Constructing Clouds: Atmospheres in Swiss Architecture**
+### Ákos Moravánskzy - Constructing Clouds: Atmospheres in Swiss Architecture
 
 1. Starting off: the Blur Building by D+S (now DS+R). During design the blur
    building was thought of as anti-spectacle, yet, it became the biggest
@@ -24,9 +22,6 @@ surprising, no questions at the end.
    emotions of their wearers based on defined criteria. For example, a raincoat
    would blush while being approached by a member of the opposite sex. The
    raincoats never happened.
-3. `I'm reminded of David Heymann's articles in on the environment written in
-   Design Observer`
-   [link](http://designobserver.com/author/david-heymann/3878/)
 5. (Showing The Weather Project) Olafur Eliasson uses empathy as it links the
    sensual to the spiritual.
 6. After Rossi's stint at ETH, Swiss architects started to consciously think
@@ -38,7 +33,7 @@ surprising, no questions at the end.
    impermanent. Zumthor often talks about the «real thing» beyond the semiotic
    experience. 
 
-**Günther Vogt - The Nature of Cities**
+### Günther Vogt - The Nature of Cities
 
 1. Günther starts off by talking about how nice it is to teach landscape to
    architecture students, mainly because when they first show up they know
@@ -67,19 +62,22 @@ surprising, no questions at the end.
 1. In Switzerland, everything is built on top of a parking, Günther is glad for
    this as it means that what is above will not be destroyed, as happened to a
    few of his parks that did not have anything below them.
-1. Final statement: "Recently, wherever I go I am shocked by the scale".
+1. Final statement: “Recently, wherever I go I am shocked by the scale”.
    Regardless of where it is, Rio, London, Istanbul, &c, the scale of what is
    being done nowadays seems way beyond the human scale.
 
-## Thoughts.
+## Thoughts
 
-In Ákos' lecture, the word "atmosphere" was mentioned often. It showed a
+During the first lecture, at the beginning I was strongly reminded of David
+Heymann's articles on landscape published at [Design Observer](http://designobserver.com/author/david-heymann/3878/)
+
+In Ákos' lecture, the word “atmosphere” was mentioned often. It showed a
 tendency in Swiss architecture away from strictly iconic/semiotic thinking;
 more towards an expression based less on intellectual/historic references and
 more on physical immediacy. It could be seen as a quest for less mediated
 encounters with architecture. The question is what to make of this tendency,
 and how strong of generalisations are possible. It seems to me that
-"atmosphere" is an approach, a tool, a means. Different architects use them to
+“atmosphere” is an approach, a tool, a means. Different architects use them to
 different ends.
 
 The juxtaposition of the Blur Building and works of Zumthor or Eliasson shows,
@@ -96,8 +94,8 @@ Compare with Zumthor, who, at lest in the manner presented by Ákos, is getting
 at something concrete. At the truth *beyond the signs*. He wants the real to be
 revealed, bracketing out that which is not. The Serpentine pavilion completely
 cuts itself off from it's surroundings to show you something it's protecting.
-In Zumthor's buildings, you have to get away from the "out there" to allow the
-truth to be revealed. The Blur building is inseparable from the "out there",
+In Zumthor's buildings, you have to get away from the «out there» to allow the
+truth to be revealed. The Blur building is inseparable from the «out there»,
 not allowing you to say where the surroundings end and the building begins, in
 certain conditions you can't even tell it's there, it's impossible to have
 clarity about it.

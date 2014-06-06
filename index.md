@@ -1,6 +1,6 @@
 ---
 layout: default
-title: text
+title: undisciplinary — a personal wiki
 ---
 
 
