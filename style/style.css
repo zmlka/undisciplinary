@@ -43,10 +43,11 @@ h1, h2, h3{
 }
 
 h1{
-  text-decoration: underline;
   font-size: 1.2rem;
 }
-
+h2, h3{
+  font-size: 1rem;
+}
 h3{
   font-weight: normal;
 }
@@ -77,12 +78,16 @@ hr{
 }
 
 footer {
-  margin-top: 20px;
+  margin-top: 40px;
   border-top: 1px solid #8C8C8C;
+  padding-top: 40px;
   color: #8C8C8C;
 }
 footer p{
   letter-spacing: 1px;
+}
+footer a{
+  color: #8C8C8C;
 }
 
 /* div IDs */
