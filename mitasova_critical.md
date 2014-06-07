@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Monika Mitášová — Is Critical Architecture Possible?
+tags: lecture, peter eisenman, guiseppe terrangi
+snippet: Notes and Thoughts from Monika Mitášovás lecture on critical architecture
 ---
 
 *06.05.2014, Czech Technical University, Faculty of Architecture* 

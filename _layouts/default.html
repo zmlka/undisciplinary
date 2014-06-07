@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8"></meta>
-  <meta content="{{page.tags}}" name="keywords"></meta>
+  <meta charset="utf-8">
   <title>{{page.title}}</title>
+  <meta name = "keywords" content="{{page.tags}}">
+  <meta name="description" content="{{ page.snippet}}">
+  <meta name="author" content="Martin Zemlicka">
 
   <link rel="stylesheet" href="style/style.css">
 </head>
@@ -12,21 +14,17 @@
 <div id="site">
   <header>
    <h1>
-     <a href="/">Undisciplinary</a>is the personal wiki of Martin Zemlicka</a>.
+     <a href="/">Undisciplinary</a> is the personal wiki of Martin Zemlicka</a>.
      </br></br>
    </h1>
   </header>
-  {%if page.title != 'undisciplinary' %}
   <h1>{{page.title}}</h1>
-  {% endif %}
   {{content}}
   <br>
   <br>
-  {%if page.title != 'undisciplinary' %}
 <script>
     document.write('<a href="' + document.referrer + '">Back…</a>');
 </script>
-  {% endif %}
   <br>
   <br>
   <footer>
