@@ -5,7 +5,7 @@ tags: lecture, peter eisenman, guiseppe terrangi
 snippet: Notes and Thoughts from Monika Mitášovás lecture on critical architecture
 ---
 
-*06.05.2014, Czech Technical University, Faculty of Architecture* 
+_06.05.2014, Czech Technical University, Faculty of Architecture_
 
 Apparently this horribly advertised lecture was part of Monika Mitasova's
 habilitation process, I only knew about it via word of mouth, which is a shame

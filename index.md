@@ -12,6 +12,7 @@ Zemlicka](http://www.zmlka.com)_
 
 Lecture notes, in chronological order:
 
+* [Christian Kerez in Prague](christian_kerez_prague)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
 * [Ákos Moravánskzy and Günther Vogt on environments](moravansky_vogt)
 
