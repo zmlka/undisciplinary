@@ -34,10 +34,10 @@ a:hover {
 }
 
 p{
-  margin-bottom: 20px;
+  margin-bottom: 1.6rem;
 }
 h1, h2, h3, h4, h5{
-  margin:0 0 20px 0;
+  margin:0 0 1.6rem 0;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -73,7 +73,7 @@ blockquote cite:before{
 }
 
 ol, ul{
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.6rem;
 }
 li{
   margin-left: 4%;

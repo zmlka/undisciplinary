@@ -10,8 +10,8 @@ tags: Future Systems, Jan Kaplicky, architecture, competition, library, Prague
 
 _Martin's note:_ This is Future Systems' competition entry for the new building
 of the national library in Prague that took place in 2007. Sourced from
-[archiweb](http://www.archiweb.cz/buildings.php?action=show&id=1147).I removed the allcaps for
-legibility, changed it into nicely formatted html and made a few spelling and
+[archiweb](http://www.archiweb.cz/buildings.php?action=show&id=1147). I removed
+the allcaps for legibility, changed it into html and made a few spelling and
 typographical corrections.
 
 ----
@@ -104,6 +104,7 @@ library.
 - Unique internal planning reduces floor area by 30%
 
 ### Site & Architecture
+
 
 #### Site
 
