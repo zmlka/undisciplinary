@@ -105,8 +105,7 @@ library.
 
 ### Site & Architecture
 
-
-#### Site
+#### The Site
 
 The new national library is at the edge of the enormous existing park
 of Letna. New park area and row of public buildings will be placed as part of
