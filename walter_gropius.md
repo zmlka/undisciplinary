@@ -6,7 +6,7 @@ tags: Walter Gropius, Bauhaus, architect, quotes
 
 ## Quotes
 
-### Houllebecq
+### Quotes by others
 
 In Houllebecq's novel, *la Carte et le Territoire* (English title: *The Map and
 the Territory*), there is a scene where the main character's father, who is an

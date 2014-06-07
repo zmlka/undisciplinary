@@ -58,6 +58,10 @@ tags: architecture, theory, pilosophy, definition, quotes
 >
 > <cite>Henry Watton</cite>
 
+> Thermodynamics + Metaphor = Architecture
+>
+> <cite>[Nick Axel](https://twitter.com/alucidwake/status/321930686296633344)</cite>
+
 
 
 ## Links

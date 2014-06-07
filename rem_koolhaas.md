@@ -6,6 +6,20 @@ tags: Rem Koolhaas, architect, quotes
 
 ## Quotes
 
+
+> For me it (writing) is very brutal and primitive, because for me architecture
+> is an intellectual discipline and for me writing is the privileged
+> communication of our intellectual disciplines. So writing is absolutely
+> without question necessary. We abuse the alibi of the otherness of our
+> profession… you cannot write if you don't have ideas. I think there is still
+> a very strong section in architecture that somehow hopes that there can be
+> architecture without ideas.
+>
+> <cite>Rem Koolhaas</cite>, Why I Wrote Delirious New York and Other Textual
+> Strategies, ANY magazine issue 0
+
+### Quotes by others
+
 > The first, perhaps most general, principle to note is that in OMA's proposals
 > the *argument* always takes precedent over the *project*. In other words,
 > there is always primarily an *engine*, be it discursive or diagrammatic,
