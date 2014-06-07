@@ -2,7 +2,7 @@
 title: Ákos Moravánskzy and Günther Vogt
 layout: default
 tags: lecture, ETH, architecture, landscape
-snippet: notes and thoughts from a lecture by Vogt and Moravánskzy
+snippet: notes and thoughts from a lecture by Vogt and Moravánskzy in Prague 2014
 ---
 
 *05.06.2014, Kino Světozor, Prague*

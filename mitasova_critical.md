@@ -18,7 +18,7 @@ Straight away it is clear that Monika will be explaining Peter Eisenman's views
 of/on critical architecture, referring almost purely to his work on Guiseppe
 Terragni's Casa del Fascio that he explored in his 1963 thesis (The Formal
 Basis of Modern Architecture) and 2003 book on Terragni (Transformations,
-Decompositions, Critiques). 
+Decompositions, Critiques[^amazon]).
 
 The lecture was dense with information and visuals, much of which has can be
 found in Eisenman's work (it was, after all, a recapitulation of his research).
@@ -51,15 +51,16 @@ Eisenman.
 1. An overdressed (three piece suit, pocket square) man wanted clarification
    the role of post-factum interpretation 
 
+## Thoughts
 
----- 
-
-Personal reflections/thoughts 
 
 I have hard time swallowing any claims of the autonomy of architecture. These
 views come up quite frequently under different names: elementary forms,
 architectural truth, 
 
-note: Considering the relative obscurity of this book, I was surprised to find
+
+
+
+[^amazon]: Considering the relative obscurity of this book, I was surprised to find
 it has an above-averate quantity of reviews on amazon.com, of which only 3 are
 favourable. 

@@ -1,6 +1,6 @@
 ---
 layout: index
-title: undisciplinary
+title: undisciplinary - Martin Zemlicka
 snippet: the personal wiki of Martin Zemlicka. Thinking about objects.
 ---
 
@@ -34,6 +34,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Jacques Herzog](jacques_herzog)
 * [Louis Camnitzer](louis_camnitzer)
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)
+* [Map and Territory](map_and_territory)
 * [Martin Heidegger](heidegger)
 * [Office for Metropolitan Architecture](oma)
 * [Rem Koolhaas](rem_koolhaas)

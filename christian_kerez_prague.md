@@ -2,6 +2,7 @@
 layout: default
 title: Christian Kerez's Lecture in Prague
 tags: architect, quotes, Christian Kerez
+snippet: notes and thougths from Christian Kerez's lecture in Prague 2014
 ---
 
 _06.03.2014, Law Faculty of Chrales University_
