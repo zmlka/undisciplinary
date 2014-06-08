@@ -36,6 +36,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)
 * [Map and Territory](map_and_territory)
 * [Martin Heidegger](heidegger)
+* [Object Oriented Ontology](ooo)
 * [Office for Metropolitan Architecture](oma)
 * [Rem Koolhaas](rem_koolhaas)
 * [Steven Holl](steven_holl)
