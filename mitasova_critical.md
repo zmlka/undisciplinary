@@ -47,20 +47,56 @@ Eisenman.
 1. Jiří Ševčík mentions something along the lines of "the problem of this
    approach is it's unsocial" 
     1. It is unclear if he was referring to Eisenman's understanding of
-       architecture, or Terragni's building. 
-1. An overdressed (three piece suit, pocket square) man wanted clarification
-   the role of post-factum interpretation 
+       architecture, or Terragni's building. Monika stated that Terragni's
+       building did have a social agenda, but did not state anything on
+       Eisenman's approach.
+1. An overdressed (three piece suit, pocket square) young boy/man wanted
+   clarification the role of post-factum interpretation in Eisenman's
+   understanding of what constitutes as critical architecture. Does it mean
+   that, for example, a building can be critical only after it is built and
+   reinterpreted, or, to put it another way, were Palladio's villas critical
+   only after somebody re-interpreted them? Monika replies that no, one does
+   not need time and to be re-interpreted in order to be critical, one can
+   already be critical with regards to past (in the current present). It seems
+   that there was some confusion with Eisenman's notion of critical
+   architecture and Eisenman's notion of canon.
 
 ## Thoughts
 
-
 I have hard time swallowing any claims of the autonomy of architecture. These
 views come up quite frequently under different names: elementary forms,
-architectural truth, 
+architectural truth, autopoiesis, allusions to architecture as a distinct
+language, &c. Eisenman of course is very much in line with the latter of these
+claims, with much of his early work relating to semiotics, and much of his
+thinking/building revolving around Architecture, capital-A, self reflexive on
+the discipline.
+
+The issue is that even if one were to take the linguistic approach, that which
+Eisenman uses as a basis point for architecture's autonomy one can easily see
+and conclude that it actually points to the opposite. Language is dependant on
+externalities, it is shaped by outside forces and there is nothing fundamental
+about grammar[^kohn]. Knowing that, it becomes difficult to argue for the
+fundamental necessity of certain architectural forms or concepts, it turns into
+just another form of reductionism justified by conventions.
+
+So much for comments on autonomy.
+
+One has to applaud Eisenman's study of Terragni, it reveals the building to be
+an interesting topic historically (the state of the Fascist party at the at
+point), architecturally (it's inventiveness and genesis) and intellectually
+(the potential readings of it). What particularly caught my attention was how,
+for a building that appears extremely stable, it is full of intended
+ambiguities; for example the trick of needing to open a window for it to gain a
+full platonic shape, making the building be in a kind of exponential limbo
+about it's solidity. It seems clear, but it isn't and can never be.
+
+It raises interesting questions which I'll have to consider. How to make an
+architecture that acknowledges the ambiguity of things? How to show the
+instability of any object's self conception? Can we do it without slipping ito
+metaphor? It's a very [OOO](ooo) thought, hence my interest in it.
 
 
 
+[^amazon]: Considering the relative obscurity of this book, I was surprised to find it has an above-average quantity of reviews on [amazon](http://www.amazon.co.uk/gp/product/1885254962/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1885254962&linkCode=as2&tag=zmlka-21), of which only 3 are favourable. 
 
-[^amazon]: Considering the relative obscurity of this book, I was surprised to find
-it has an above-averate quantity of reviews on amazon.com, of which only 3 are
-favourable. 
+[^kohn]: See, for exmaple, Kohn's recent (and excellent) [How Forests Think](http://www.amazon.co.uk/gp/product/0520276116/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0520276116&linkCode=as2&tag=zmlka-21), one of who's many topics is the influence of the surrounding world on language.

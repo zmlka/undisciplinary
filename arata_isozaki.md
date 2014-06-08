@@ -6,7 +6,7 @@ tags: Arata Isozaki, architect, quote
 
 ## Quotes
 
-### Relation to Metabolism
+### Quotes by others
 
 > It is a testament to Isozaki's independence that, while subject to Metabolist
 > influence, he always maintained a certain distance from the fictive
