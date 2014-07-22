@@ -15,7 +15,8 @@ Lecture notes, in chronological order:
 * [Christian Kerez in Prague](christian_kerez_prague)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
 * [Ákos Moravánskzy and Günther Vogt on environments](moravansky_vogt)
-* [(CS) What is Critical Thinking?](what_is_critical_thinking)
+* [(CS) What is critical thinking?](what_is_critical_thinking)
+* [(CS) When is engineering architecture?](when_is_engineering_architecture)
 
 ## Hypomnema
 
