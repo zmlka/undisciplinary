@@ -9,12 +9,6 @@ snippet: notes and thoughts from a panel discussion on enginnering with Steve We
 
 Part of the Critical Subjects summer school series of debates, lectures and panel discussions.
 
-
-* Steve Webb
-* David Marks
-* John Roycroft
-* Paul Reeves
-
 ## Notes
 
 ### Steve Webb
