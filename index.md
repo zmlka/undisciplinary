@@ -17,6 +17,7 @@ Lecture notes, in chronological order:
 * [Ákos Moravánskzy and Günther Vogt on environments](moravansky_vogt)
 * [(CS) What is critical thinking?](what_is_critical_thinking)
 * [(CS) When is engineering architecture?](when_is_engineering_architecture)
+* [(CS) Whatever happened to the avant-garde?](whatever_happened_avant-garde)
 
 ## Hypomnema
 
