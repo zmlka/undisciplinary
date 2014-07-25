@@ -98,7 +98,7 @@ html{
   text-rendering: optimizelLegibility;
   -webkit-font-smoothing: antialiased;
 
-  font-size: 11px;
+  font-size: 12px;
   font-family: Verdana, sans-serif;
   line-height: 1.5;
 }
@@ -160,6 +160,10 @@ blockquote cite{
 }
 blockquote cite:before{
     content: '      — ';
+}
+
+ul, ol{
+  margin-bottom 1.6rem;
 }
 
 li{
