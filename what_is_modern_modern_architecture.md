@@ -1,10 +1,9 @@
 ---
-title: Critical Subjects – What is modern about modern architecture?
+title: Critical Subjects - Whatever happened to the avant-garde?
 layout: default
-tags: panel discussion, critical subjects, modern architecture, zaha hadid 
-snippet: notes and thoughts from a panel discussion on modern architecture featuring Penny Lewis, Robert Adam, Dickon Robinson
+tags: panel discussion, critical subjects, arup associates, avant-garde
+snippet: notes and thoughts from a panel discussion on the avant-garde featuring Catherine Rossi, Kim Quazi, Joseph Young and Michael Daley
 ---
-
 
 *15.07.2004 - Zaha Hadid Architects, London*
 

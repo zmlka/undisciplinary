@@ -1,10 +1,9 @@
 ---
-title: Critical Subjects – Parametricism: Style or substance?
+title: Critical Subjects - Parametricism style or substance?
 layout: default
-tags: panel discussion, critical subjects, patrik schumacher, zaha hadid, parametricism
-snippet: notes and thoughts from a panel discussion on parametricism by Patrik Schumacher
+tags: panel discussion, critical subjects, arup associates, avant-garde
+snippet: notes and thoughts from a panel discussion on the avant-garde featuring Catherine Rossi, Kim Quazi, Joseph Young and Michael Daley
 ---
-
 
 *15.07.2004 - Zaha Hadid Architects, London*
 
@@ -111,9 +110,4 @@ extremely-future proof system, the New York Grid.
 > The trade off with specificity is that things change. This is the advantage of
 thinking of architecture/urbanism as a platform for things to happen, not as a
 method of recording what is happening.
-
-
-
-
-
 
