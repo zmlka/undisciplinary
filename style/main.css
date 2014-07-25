@@ -163,7 +163,7 @@ blockquote cite:before{
 }
 
 ul, ol{
-  margin-bottom 1.6rem;
+  padding-left: 0px;
 }
 
 li{
