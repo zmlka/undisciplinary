@@ -1,34 +1,70 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
+
+  <!-- Basic Page Needs
+  ================================================== -->
   <meta charset="utf-8">
   <title>{{page.title}}</title>
   <meta name = "keywords" content="{{page.tags}}">
   <meta name="description" content="{{ page.snippet}}">
   <meta name="author" content="Martin Zemlicka">
 
-  <link rel="stylesheet" href="style/style.css">
-</head>
+  <!-- Mobile Specific Metas
+  ================================================== -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+  <!-- CSS
+  ================================================== -->
+  <link rel="stylesheet" href="stylesheets/base.css">
+  <link rel="stylesheet" href="stylesheets/skeleton.css">
+  <link rel="stylesheet" href="stylesheets/layout.css">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Favicons
+  ================================================== -->
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+</head>
 <body>
-<div id="site">
-  <header>
-   <h1>
-     <a href="/">Undisciplinary</a> is the personal wiki of Martin Zemlicka</a>.
-     </br></br>
-   </h1>
-  </header>
-  <h1>{{page.title}}</h1>
-  {{content}}
-  <br>
-  <br>
-<script>
-    document.write('<a href="' + document.referrer + '">Back…</a>');
-</script>
-  <br>
-  <br>
+
+
+
+  <!-- Primary Page Layout
+  ================================================== -->
+
+  <!-- Delete everything in this .container and get started on your own site! -->
+
+  <div class="container">
+    <div class="sixteen columns">
+      <h1 class="remove-bottom" style="margin-top: 40px">
+      <a href="/">Undisciplinary</a> is the personal wiki of Martin Zemlicka</a>.
+      </h1>
+      <h5>{{page.title}}</h5>
+      <hr />
+      {{content}}
+    </div>
+    <div class="two-thirds column">
+    <div class="one-third column">
+      <p>teesteakjtekfjas;dlkfja s;kdlfja;slkdfj a;skjdf aslkdjf a;skldjf ;askjdfksdjflaskdjfa;lsk djfaskdjf</p>
+    </div>
+
   <footer>
     <p>A wiki by <a href="http://www.zmlka.com">Martin Zemlicka</a>. All content <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a>.</p>
   </footer>
-</div>
+  </div><!-- container -->
+
+
+<!-- End Document
+================================================== -->
 </body>
+</html>
