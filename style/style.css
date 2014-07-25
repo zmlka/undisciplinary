@@ -76,12 +76,9 @@ blockquote cite:before{
     content: '      — ';
 }
 
-ol, ul{
-  margin-bottom: 1.6rem;
-}
 li{
   margin-left: 4%;
-  margin-bottom: 0.3rem;
+  margin-bottom: 1.3rem;
 }
 hr{
     color:#c0c0c0;
