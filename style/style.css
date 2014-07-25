@@ -104,14 +104,14 @@ footer a{
 header h1{
   font-family: helvetica, arial, sans-serif;
   font-size: 1.9rem;
-  line-height: 3.4rem;
+  line-height: 3;
 
 }
 /* IDs */
 
 #site{
   max-width: 41rem;
-  padding: 2rem 4% 1rem 4%;
+  padding-left 2rem;
 }
 
 
