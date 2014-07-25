@@ -18,6 +18,8 @@ Lecture notes, in chronological order:
 * [(CS) What is critical thinking?](what_is_critical_thinking)
 * [(CS) When is engineering architecture?](when_is_engineering_architecture)
 * [(CS) Whatever happened to the avant-garde?](whatever_happened_avant-garde)
+* [(CS) What is modern about modern architecture?](what_is_modern_modern_architecture)
+* [(CS) Parametricism: Style or substance?](parametricism_style_substance)
 
 ## Hypomnema
 
@@ -44,4 +46,6 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Rem Koolhaas](rem_koolhaas)
 * [Steven Holl](steven_holl)
 * [Walter Gropius](walter_gropius)
+
+
 
