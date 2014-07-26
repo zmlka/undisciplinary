@@ -47,3 +47,9 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Steven Holl](steven_holl)
 * [Walter Gropius](walter_gropius)
 
+
+<!--
+
+[priavte](/_private/index)
+
+-->
