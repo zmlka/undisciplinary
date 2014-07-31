@@ -16,12 +16,12 @@ Part of the Critical Subjects summer school series of debates, lectures and pane
 1. In the philosophy of education, critical thinking is "the ability to engage
    in deep conversation"
 1. There are, generally, three misconceptions about critical thinking:
-  1. The misconception that critical thinking is a skill. Training is not
-     critical thinking.
-  1. The misconception that "critical something" is critical. It is an
-     indoctrination, for example critical architecture is that which shows an
-     ideology.
-  1. The misconception that critical is cynical.
+    1. The misconception that critical thinking is a skill. Training is not
+       critical thinking.
+    1. The misconception that "critical something" is critical. It is an
+       indoctrination, for example critical architecture is that which shows an
+       ideology.
+    1. The misconception that critical is cynical.
 1. Best definition of criticism: a disinterested endevour to learnd and
    propagate the best that is known in the world.
 1. Criticism has become mainstream with the loss of actual crises. Instead we

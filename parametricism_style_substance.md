@@ -46,19 +46,19 @@ obviously enjoyed himself.
 1. “Having order allows us to gauge and identify ourselves.“
 1. “Appearances matter.”
 1. Why do we need a new aesthetic style?
-  1. we can look at the history of the human condition and how architecture
-     relates to this.
-  1. eg: in the renaissance, and opening up of society occurs, new styles
-     emerge; industrial revolution, same thing.
-  1. “New styles articulate new social order̦.”
-  1. Now we need to understand, what is the difference between modern and
-     contemporary? Modernism is about standardisation, everything is modulated
-     and harmonised.
-  1. The contemporary era is about customisation, flexible specialisations,
-     everything more and more diverse.
-  1. This means we have to work different.
-  1. This is the post-fordist society.
-  1. What does this look like?
+    1. we can look at the history of the human condition and how architecture
+       relates to this.
+    1. eg: in the renaissance, and opening up of society occurs, new styles
+       emerge; industrial revolution, same thing.
+    1. “New styles articulate new social order̦.”
+    1. Now we need to understand, what is the difference between modern and
+       contemporary? Modernism is about standardisation, everything is
+       modulated and harmonised.
+    1. The contemporary era is about customisation, flexible specialisations,
+       everything more and more diverse.
+    1. This means we have to work different.
+    1. This is the post-fordist society.
+    1. What does this look like?
 1. Deconstruction employed the technique of collage, parametricism follows from
    that. Parametricism, instead of collaging, allows the complex, layered and
    networked contemporary condition to come together and be legible.
@@ -82,14 +82,14 @@ obviously enjoyed himself.
 1. “Even modernists were surfing the wave”. They had client that wanted to
    change society, it was not the architects that changed society.
 1. Question time notes:
-  1. Prefers curved surfaces as they allow for continuity, more articulation of
-     complexity while remaining legible.
-  1. Patrik believes that their buildings are more clear that orthogonal
-     buildings.
-  1. Parametricism gives clarity.
-  1. Patrik is very excited about new methods of ordering, for example,
-     gradient, slope, etc.
-  1. “If all is the same, how do you have order?“
+    1. Prefers curved surfaces as they allow for continuity, more articulation
+       of complexity while remaining legible.
+    1. Patrik believes that their buildings are more clear that orthogonal
+       buildings.
+    1. Parametricism gives clarity.
+    1. Patrik is very excited about new methods of ordering, for example,
+       gradient, slope, etc.
+    1. “If all is the same, how do you have order?“
 1. Final comment, said light-heartedly: “Buy my books, I am frustrated that my
    readership is so small.”
 

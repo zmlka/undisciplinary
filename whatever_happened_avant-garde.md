@@ -49,10 +49,10 @@ Kim is the director of ARUP Associates
 1. The perfect-ish knowledge that marketers and government have make it very
    easy to assimilate the "trending" ideas.
 1. Compared to his student days, the students he teacher are:
-  1. Less political
-  1. Less angry (negates the need to form an opposition)
-  1. These days, to be critical you need to be poor, rich or paid by the state.
-     Others can't afford to be.
+    1. Less political
+    1. Less angry (negates the need to form an opposition)
+    1. These days, to be critical you need to be poor, rich or paid by the
+       state.  Others can't afford to be.
 1. Thesis: the state should allow and support people to be themselves, we are
    no longer in a world where we can create Dada due to surveillance.
 
@@ -71,8 +71,8 @@ Michael runs ArtWatch UK
 1. Michael explicates how the arts council works in the UK. How and
    «avant-garde» operates these days and how it has plunged into the hands of
    the art-market:
-  1. The arts council funds artists
-  1. Gallerists buy these state funded artists as guaranteed killer profits
+   1. The arts council funds artists
+   1. Gallerists buy these state funded artists as guaranteed killer profits
 1. "Many people can't realise that avant-gardism does not have to be left
    wing.  People can't get it into their heads that the most radical politician
    that Britain has had was a woman named Margret Thatcher."
