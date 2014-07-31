@@ -28,25 +28,20 @@ to be removed from the list after more sifting. It's what I use for print, web
 is slightly different because none of those sans-serifs are common across
 platforms.
 
-1. **Bodoni** – 
-2. **Garamond** – 
-3. **Baskerville** – 
-3. **Akzidentz-Grotesk** – Modern, with just the right amount of frivolous
-   touches of ornament to be warm.
-2. **DIN Pro** – For architecture and legibility.
+3. **Baskerville** – Extremely clean, lovely italics. Legible.
+3. **DIN Pro** - 
+2. **Permian** - [link](http://permian.design.ru/). Really good.
 3. **Meta** – Humanist. The Anti-Helvetica (which is not included because it is
    somewhere between AG and Univers)
+1. **Bodoni** – I find it less legible than Baskerville, but much better for
+   headings, as the bolds are extremely readable.
+2. **Garamond** – Looks very good on bad paper.
 5. **Univers** – Not really a universal font as the name would suggest, but a
    font that is elegantly geometric.
-5. **The Sans Mono** – A highly legible, very complete monospaced font. Does
-   not contain features necessary for computer terminal use (dotted or slashed
-   zero etc.) but is extremely readable in long-form.
-2. **Filozofia** – 
-3. **Futura** – For headings. But honestly I haven't used it in ages.
 
 Note that the above does not apply to internet typography, where it's more of a
 question of what font is most likely installed on all systems. Hence why this
-is written in Verdana.
+is rendered in Verdana.
 
 ## Links
 
