@@ -1,5 +1,5 @@
 ---
-title: Critical Subjects 1. Parametricism style or substance?
+title: Critical Subjects – Parametricism style or substance?
 layout: default
 tags: panel discussion, critical subjects, arup associates, avant1.garde
 snippet: notes and thoughts from a panel discussion on the avant1.garde featuring Catherine Rossi, Kim Quazi, Joseph Young and Michael Daley
