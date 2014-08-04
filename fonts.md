@@ -28,16 +28,18 @@ to be removed from the list after more sifting. It's what I use for print, web
 is slightly different because none of those sans-serifs are common across
 platforms.
 
-3. **Baskerville** – Extremely clean, lovely italics. Legible.
-3. **DIN Pro** - 
-2. **Permian** - [link](http://permian.design.ru/). Really good.
-3. **Meta** – Humanist. The Anti-Helvetica (which is not included because it is
+3. **Berthold Baskerville** – Extremely clean, lovely italics. Legible.
+3. **FF DIN** - Instant classic. Started off using it mainly for architecture
+   related things, now used practically everywhere.
+2. **Permian** - [link](http://permian.design.ru/). Designed for the city of
+   Perm by Ilya Ruderman.
+3. **FF Meta** – Humanist. The Anti-Helvetica (which is not included because it is
    somewhere between AG and Univers)
-1. **Bodoni** – I find it less legible than Baskerville, but much better for
-   headings, as the bolds are extremely readable.
-2. **Garamond** – Looks very good on bad paper.
-5. **Univers** – Not really a universal font as the name would suggest, but a
-   font that is elegantly geometric.
+1. **Linotype Gianotten** – This used to be Bodoni, but now I have switched
+   over to primarily using a [Bodoni derivative](http://www.linotype.com/1046/linotypegianotten-family.html).
+2. **Adobe Garamond** – Looks very good on bad paper.
+5. **Linoype Univers** – Not really a universal font as the name would suggest,
+   but a font that is elegantly geometric.
 
 Note that the above does not apply to internet typography, where it's more of a
 question of what font is most likely installed on all systems. Hence why this
