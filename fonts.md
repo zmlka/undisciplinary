@@ -33,8 +33,7 @@ platforms.
    related things, now used practically everywhere.
 2. **Permian** - [link](http://permian.design.ru/). Designed for the city of
    Perm by Ilya Ruderman.
-3. **FF Meta** – Humanist. The Anti-Helvetica (which is not included because it is
-   somewhere between AG and Univers)
+3. **FF Meta** – Humanist. The Anti-Helvetica, and really damn useful.
 1. **Linotype Gianotten** – This used to be Bodoni, but now I have switched
    over to primarily using a [Bodoni derivative](http://www.linotype.com/1046/linotypegianotten-family.html).
 2. **Adobe Garamond** – Looks very good on bad paper.
