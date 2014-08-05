@@ -43,6 +43,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Martin Heidegger](heidegger)
 * [Object Oriented Ontology](ooo)
 * [Office for Metropolitan Architecture](oma)
+* [Peter Eisenman](peter_eisenman)
 * [Rem Koolhaas](rem_koolhaas)
 * [Steven Holl](steven_holl)
 * [Walter Gropius](walter_gropius)
