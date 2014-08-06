@@ -44,6 +44,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Object Oriented Ontology](ooo)
 * [Office for Metropolitan Architecture](oma)
 * [Peter Eisenman](peter_eisenman)
+* [Reading Architecture: Frequently Recommended Books](read_architecture)
 * [Rem Koolhaas](rem_koolhaas)
 * [Steven Holl](steven_holl)
 * [Walter Gropius](walter_gropius)
