@@ -64,12 +64,15 @@ architecture studies, enjoyed it very much at the time. I flip through it
 regularly.
 
 Although S, M, L, XL is a monograph of a single office, what makes it so
-appealing and gives it such «replay value» is that Koolhaas is firstly a good
-writer and secondly he is so deeply ingrained and well versed in today's
-architecture world. It seems that the more you know, the more you can get out
-of the book, as the book contains much more than just project documentation.
-Full anecdotes, related and unrelated thoughts, creating the tome was a massive
-undertaking, as is reading it.
+appealing and gives it such «replay value» is that Koolhaas is an
+exceptionally gifted writer as well as being deeply ingrained in today's
+architecture world. Being familiar with OMA's output is a practically mandatory
+for understanding contemporary architecture. The more you know,
+the more you can get out of the book, as it is far more than just project
+documentation.  Full anecdotes, related and unrelated thoughts, essays and
+thoughts. 
+
+Creating the tome was a massive undertaking, as is reading it.
 
 ### Design of Cities by Edmund Bacon
 ![](img/design.of.cities.jpg)
@@ -78,9 +81,9 @@ and [US](http://www.amazon.com/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1
 
 The design of cities is exceptionally well structured book on urban design.
 Following the travels and learnings of the author, the book is a sequence of
-case studies on canonical acts of urbanism. The book stands out for both it’s
-clarity of writing, but especially it’s diagrams. Burke’s diagrams typically
-use three colors at most,  are hand drawn and show selective information, and
+case studies on canonical acts of urbanism. The book stands out for its
+clarity of writing but above all its diagrams. Burke's diagrams typically
+use three colours at most,  are hand drawn and show selective information, and
 perfectly illustrate the point being made.
 
 This book is a great introduction to urban design, as well as an amazing
