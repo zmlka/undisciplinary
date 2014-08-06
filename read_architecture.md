@@ -54,6 +54,7 @@ for any architect.
 
 
 ### S, M, M, XL by OMA (Rem Koolhaas)
+![](img/smlxl.jpg)
 Amazon: [UK](http://www.amazon.co.uk/gp/product/1885254865/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1885254865&linkCode=as2&tag=zmlka-21&linkId=OJRQYJHV2U3T3EGY) 
 and [US](http://www.amazon.com/gp/product/1885254865/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1885254865&linkCode=as2&tag=wwwzmlkacom-20&linkId=2E4U57GWC6ZAIGH7)
 
@@ -71,6 +72,7 @@ Full anecdotes, related and unrelated thoughts, creating the tome was a massive
 undertaking, as is reading it.
 
 ### Design of Cities by Edmund Bacon
+![](img/design.of.cities.jpg)
 Amazon: [UK](http://www.amazon.co.uk/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0140042369&linkCode=as2&tag=zmlka-21&linkId=HMB4I5ZOP4CBYUMY) 
 and [US](http://www.amazon.com/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140042369&linkCode=as2&tag=wwwzmlkacom-20&linkId=LVOMIQ6GEECNYPWU)
 
