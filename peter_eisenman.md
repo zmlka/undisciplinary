@@ -10,7 +10,7 @@ tags: Peter Eisenman, architecture, quotes, architect, deconstuctivism, paper ar
 > I'm a moral architect because through my architecture I open up man's psyche
 > to the unconscious and repressed side.
 >
-> <cite>Peter Eisenman<cite>, in an interview with Hanno
+> <cite>Peter Eisenman</cite>, in an interview with Hanno
 > Rauterberg, [Talking Architecture](http://www.amazon.co.uk/gp/product/3791346849/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=3791346849&linkCode=as2&tag=zmlka-21&linkId=HRDQHIF4YTZKZ6TD).
 
 Asked if his Holocaus Memorial in Berlin is out to goad the audience:
@@ -25,7 +25,7 @@ Asked if his Holocaus Memorial in Berlin is out to goad the audience:
 > power of these media images. It tries to overcome the hegemony of the visual
 > side by going for primary physical experience and emotions.
 >
-> <cite>Peter Eisenman<cite>, in an interview with Hanno
+> <cite>Peter Eisenman</cite>, in an interview with Hanno
 > Rauterberg, [Talking Architecture](http://www.amazon.co.uk/gp/product/3791346849/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=3791346849&linkCode=as2&tag=zmlka-21&linkId=HRDQHIF4YTZKZ6TD).
 
 ### Quotes by others
