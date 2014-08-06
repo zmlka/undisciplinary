@@ -205,6 +205,9 @@ header h1{
   padding-top: 3rem;
 }
 
+#site img{
+  max-width: 100%;
+}
 
 
 /* CLASSes */
