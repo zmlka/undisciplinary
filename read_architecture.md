@@ -33,7 +33,7 @@ introduction](http://atrap.org/about.html), a list of
 [principles]http://atrap.org/principles.html) and a
 [curriculum](http://atrap.org/curriculum.html).
 
-IF there is one thing to stress from those three pages, it is from the
+If there is one thing to stress from those three pages, it is from the
 principles page:
 
 > Primary texts meaning texts that are 0 degrees of separation from the subject
@@ -52,8 +52,9 @@ these are books that I believe are of such high quality, importance or
 usefulness that they can only bring merit. These books should be good presents
 for any architect.
 
+### Books by Architects
 
-### S, M, M, XL by OMA (Rem Koolhaas)
+#### S, M, M, XL by OMA (Rem Koolhaas)
 ![](img/smlxl.jpg)
 Amazon: [UK](http://www.amazon.co.uk/gp/product/1885254865/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1885254865&linkCode=as2&tag=zmlka-21&linkId=OJRQYJHV2U3T3EGY) 
 and [US](http://www.amazon.com/gp/product/1885254865/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1885254865&linkCode=as2&tag=wwwzmlkacom-20&linkId=2E4U57GWC6ZAIGH7)
@@ -74,7 +75,7 @@ thoughts.
 
 Creating the tome was a massive undertaking, as is reading it.
 
-### Design of Cities by Edmund Bacon
+#### Design of Cities by Edmund Bacon
 ![](img/design.of.cities.jpg)
 Amazon: [UK](http://www.amazon.co.uk/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0140042369&linkCode=as2&tag=zmlka-21&linkId=HMB4I5ZOP4CBYUMY) 
 and [US](http://www.amazon.com/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140042369&linkCode=as2&tag=wwwzmlkacom-20&linkId=LVOMIQ6GEECNYPWU)
@@ -89,7 +90,7 @@ perfectly illustrate the point being made.
 This book is a great introduction to urban design, as well as an amazing
 reference for diagramming ideas.
 
-### Toward an Architecture by Le Corbusier
+#### Toward an Architecture by Le Corbusier
 Amazon [UK](http://www.amazon.co.uk/gp/product/0711228094/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0711228094&linkCode=as2&tag=zmlka-21&linkId=C3SU6Q5PJVWUZ5VX) 
 and [US](http://www.amazon.com/gp/product/0892368225/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0892368225&linkCode=as2&tag=wwwzmlkacom-20&linkId=J5DQ3IRDEN6J5IM3)
 
@@ -110,8 +111,10 @@ War I.
 Architects often present their work in devious ways.
 
 Anybody who has been through any design course of any kind knows the
-overwhelming quantity of half-truths and straight up inventions that are said
-during project presentations.
+tremendous quantity of half-truths and straight-up inventions that are said
+during crits, and this spirit of rhetorical invention is often carried forward into professional life. Design ideas are often retconed, initial sketches drawn last, foundational diagrams drawn post-factum. Designers are paradoxically extremely honest and extremely dishonest at the same time.
+
+Reading interviews is sometimes a nice antidote; it feels more real, gives more of an idea of the actual principles of the person being interviewed. That is not to say that the stated principles are followed by them when designing, but it definitely makes for a more engaging read than the usual PR sounding descriptions. Not to mention secondary reading which does all that and more.
 
 
 [^atrap]: [ATRAP](http://www.atrap.org)
