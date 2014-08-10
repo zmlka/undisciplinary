@@ -137,7 +137,7 @@ h1{
 }
 h2, h3{
   font-size: 1rem;
-
+}
 h3, h4, h5{
   font-weight: normal;
 }
@@ -148,6 +148,7 @@ h4, h5{
 h3 {
   text-decoration: underline;
 }
+
 h4 {
   font-style: italic;
 }
