@@ -111,12 +111,57 @@ War I.
 
 Architects often present their work in devious ways.
 
-Anybody who has been through any design course of any kind knows the
-tremendous quantity of half-truths and straight-up inventions that are said
-during crits, and this spirit of rhetorical invention is often carried forward into professional life. Design ideas are often retconed, initial sketches drawn last, foundational diagrams drawn post-factum. Designers are paradoxically extremely honest and extremely dishonest at the same time.
+Anybody who has been through any design course of any kind knows the tremendous
+quantity of half-truths and straight-up inventions that are said during crits,
+and this spirit of rhetorical invention is often carried forward into
+professional life. Design ideas are often retconed, initial sketches drawn
+last, foundational diagrams drawn post-factum. Designers are paradoxically
+extremely honest and extremely dishonest at the same time.
 
-Reading interviews is sometimes a nice antidote; it feels more real, gives more of an idea of the actual principles of the person being interviewed. That is not to say that the stated principles are followed by them when designing, but it definitely makes for a more engaging read than the usual PR sounding descriptions. Not to mention secondary reading which does all that and more.
+Reading interviews is sometimes a nice antidote; it feels more real, gives more
+of an idea of the actual principles of the person being interviewed. That is
+not to say that the stated principles are followed by them when designing, but
+it definitely makes for a more engaging read than the usual PR sounding
+descriptions. Not to mention secondary reading which does all that and more.
 
+#### Talking Architecture
+
+Amazon [UK](http://www.amazon.co.uk/gp/product/3791346849/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=3791346849&linkCode=as2&tag=zmlka-21)
+and [US](http://www.amazon.com/gp/product/3791340131/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=3791340131&linkCode=as2&tag=wwwzmlkacom-20)
+
+Hanno Rauterberg is a journalist mainly working for the German weekly _Die
+Zeit_. This book contains a collection of interviews with architects, most of
+whom would fall under the label of «starchitect» that he conducted over
+the course of a few years.
+
+The value of this compendium comes from the fact that all the interviews were
+conducted by the same person, meaning that the topics covered with various
+interviewees are frequently linked, and its brevity. No interview is longer
+than six pages, yet you always learn something. Hanno Rauterberg uses his
+knowledge of the contemporary architecture scene to ask what's important and
+what is not usually asked.
+
+#### The Oral History of Modern Architecture
+
+Amazon [UK](http://www.amazon.co.uk/gp/product/0810936690/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0810936690&linkCode=as2&tag=zmlka-21)
+and [US](http://www.amazon.com/gp/product/0810936690/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0810936690&linkCode=as2&tag=wwwzmlkacom-20)
+
+The sub-title of the book is _interviews with the greatest architects of the
+twentieth century_, which, considering that the book contains extracts from
+interviews conducted with some 70 architects is fitting. As with Rauterberg's
+book, the interviews were all conducted by one individual, John Peter.
+
+The structure of the book is somewhat awkward, as the first half is organised
+by thematic chapters that contain extracts and quotes from various architects
+on particular themes, those being: technology, society, art and great works.
+The second half of the book contains full transcripts of interviews with ten
+architects. Also included is a CD that contains some more interview material.
+The thematic quotes are fine, but the full interviews is the real juice of the
+book, and it makes a nice complement to Rautberg's book as Peter interviews
+architects of a prior generation.
+
+Considering the scope of the book and the price it goes for, it is a very good
+deal.
 
 [^atrap]: [ATRAP](http://www.atrap.org)
 
