@@ -125,7 +125,7 @@ it definitely makes for a more engaging read than the usual PR sounding
 descriptions. Not to mention secondary reading which does all that and more.
 
 #### Talking Architecture
-
+![](img/talking.architecture.jpg)
 Amazon [UK](http://www.amazon.co.uk/gp/product/3791346849/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=3791346849&linkCode=as2&tag=zmlka-21)
 and [US](http://www.amazon.com/gp/product/3791340131/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=3791340131&linkCode=as2&tag=wwwzmlkacom-20)
 
@@ -142,7 +142,7 @@ knowledge of the contemporary architecture scene to ask what's important and
 what is not usually asked.
 
 #### The Oral History of Modern Architecture
-
+![](img/oral.history.architecture.jpg)
 Amazon [UK](http://www.amazon.co.uk/gp/product/0810936690/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0810936690&linkCode=as2&tag=zmlka-21)
 and [US](http://www.amazon.com/gp/product/0810936690/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0810936690&linkCode=as2&tag=wwwzmlkacom-20)
 
