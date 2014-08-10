@@ -91,6 +91,7 @@ This book is a great introduction to urban design, as well as an amazing
 reference for diagramming ideas.
 
 #### Toward an Architecture by Le Corbusier
+![](img/towards.an.architecture.jpg)
 Amazon [UK](http://www.amazon.co.uk/gp/product/0711228094/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0711228094&linkCode=as2&tag=zmlka-21&linkId=C3SU6Q5PJVWUZ5VX) 
 and [US](http://www.amazon.com/gp/product/0892368225/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0892368225&linkCode=as2&tag=wwwzmlkacom-20&linkId=J5DQ3IRDEN6J5IM3)
 
