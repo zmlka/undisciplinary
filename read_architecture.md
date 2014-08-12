@@ -106,6 +106,12 @@ Much is said about him, yet most have not even read this short manifesto that
 serves as an entry point to making sense of European architecture after World
 War I.
 
+#### Complexity and Contradiction in Architecture by Robert Venturi
+
+Vincent Scully, in his  introduction to _Complexity and Contradiction_, announced that this is the most important book in architecture since Le Cobrusier's _Towards an Architecture_. This outlandish statement by one of the most eloquent arhcitectural historians ever urned out to be true. 
+
+The book is, simply put, very good and a must read. It allows one to understand developments in architecture in an entirely different way than before reading it.
+
 ### Books of interviews and lectures
 
 Architects often present their work in devious ways.
@@ -147,7 +153,7 @@ and [US](http://www.amazon.com/gp/product/0810936690/ref=as_li_tl?ie=UTF8&camp=1
 
 The sub-title of the book is _interviews with the greatest architects of the
 twentieth century_, which, considering that the book contains extracts from
-interviews conducted with some 70 architects is fitting. As with Rauterberg's
+interviews conducted with some 70 architects, is fitting. As with Rauterberg's
 book, the interviews were all conducted by one individual, John Peter.
 
 The structure of the book is somewhat awkward, as the first half is organised
@@ -161,6 +167,12 @@ architects of a prior generation.
 
 Considering the scope of the book and the price it goes for, it is a very good
 deal.
+
+#### Tadao Ando: Conversations with Students
+
+#### Louis Kahn: Essential Texts
+
+#### 
 
 [^atrap]: [ATRAP](http://www.atrap.org)
 
