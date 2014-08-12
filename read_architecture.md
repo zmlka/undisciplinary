@@ -82,12 +82,16 @@ and [US](http://www.amazon.com/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1
 
 The design of cities is exceptionally well structured book on urban design.
 Following the travels and learnings of the author, the book is a sequence of
-case studies on canonical acts of urbanism. The book stands out for its
-clarity of writing but above all its diagrams. Burke's diagrams typically
-use three colours at most,  are hand drawn showing only selective information,  
-perfectly illustrating the point being made. It diagrams and explains urban principles in cities starting from Roman camps all the way to modern Philadelphia, which thde author worked on.
+case studies on canonical acts of urbanism. The book stands out for its clarity
+of writing but above all its diagrams. Burke's diagrams typically use three
+colours at most,  are hand drawn showing only selective information,  perfectly
+illustrating the point being made. It diagrams and explains urban principles in
+cities starting from Roman camps all the way to modern Philadelphia, which thde
+author worked on.
 
-This book works both for those unfamiliar with urban design as well as for those already versed in it. The diagrams alone make good case studies of how to convey information.
+This book works both for those unfamiliar with urban design as well as for
+those already versed in it. The diagrams alone make good case studies of how to
+convey information.
 
 #### Toward an Architecture by Le Corbusier
 ![](img/towards.an.achitecture.jpg)
@@ -107,10 +111,20 @@ serves as an entry point to making sense of European architecture after World
 War I.
 
 #### Complexity and Contradiction in Architecture by Robert Venturi
+![](img/complexity.and.contradiction.jpg)
+Amazon [UK](http://www.amazon.co.uk/gp/product/0870702823/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0870702823&linkCode=as2&tag=zmlka-21)
+and [US](http://www.amazon.com/gp/product/0870702823/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0870702823&linkCode=as2&tag=wwwzmlkacom-20)
 
-Vincent Scully, in his  introduction to _Complexity and Contradiction_, announced that this is the most important book in architecture since Le Cobrusier's _Towards an Architecture_. This outlandish statement by one of the most eloquent arhcitectural historians ever urned out to be true. 
+Vincent Scully, in his  introduction to _Complexity and Contradiction_,
+announced that this is the most important book in architecture since Le
+Cobrusier's _Towards an Architecture_. This seemingly outlandish statement by
+one of the most eloquent architectural historians ever turned out to be true. 
 
-The book is, simply put, very good and a must read. It allows one to understand developments in architecture in an entirely different way than before reading it.
+The book is, simply put, very good and a must read. I won't go into the details
+of its contents as those can be easily elsewhere, but suffice it to say that
+its influence is difficult to overstate. It allows one to understand
+developments in architecture in an entirely different way than before reading
+it. The book develops your ability to think about buildings.
 
 ### Books of interviews and lectures
 
@@ -169,10 +183,13 @@ Considering the scope of the book and the price it goes for, it is a very good
 deal.
 
 #### Tadao Ando: Conversations with Students
-
+![](img/ando.conversations.jpg)
+Amazon [UK](http://www.amazon.co.uk/gp/product/1616890703/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1616890703&linkCode=as2&tag=zmlka-21)
+and [US](http://www.amazon.com/gp/product/1616890703/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1616890703&linkCode=as2&tag=wwwzmlkacom-20)
 #### Louis Kahn: Essential Texts
-
-#### 
+![](img/kahn.essential.texts.jpg)
+Amazon [UK](http://www.amazon.co.uk/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0393731138&linkCode=as2&tag=zmlka-21)
+and [US](http://www.amazon.com/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393731138&linkCode=as2&tag=wwwzmlkacom-20)
 
 [^atrap]: [ATRAP](http://www.atrap.org)
 
