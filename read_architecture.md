@@ -30,7 +30,7 @@ The reading group, then, had a double mission of reflection on what's going on
 now, and at the same time providing the tools necessary to be able to have the
 discussion: a knowledge of 20th century architecture. There was [an
 introduction](http://atrap.org/about.html), a list of
-[principles]http://atrap.org/principles.html) and a
+[principles](http://atrap.org/principles.html) and a
 [curriculum](http://atrap.org/curriculum.html).
 
 If there is one thing to stress from those three pages, it is from the
@@ -84,11 +84,10 @@ The design of cities is exceptionally well structured book on urban design.
 Following the travels and learnings of the author, the book is a sequence of
 case studies on canonical acts of urbanism. The book stands out for its
 clarity of writing but above all its diagrams. Burke's diagrams typically
-use three colours at most,  are hand drawn and show selective information, and
-perfectly illustrate the point being made.
+use three colours at most,  are hand drawn showing only selective information,  
+perfectly illustrating the point being made. It diagrams and explains urban principles in cities starting from Roman camps all the way to modern Philadelphia, which thde author worked on.
 
-This book is a great introduction to urban design, as well as an amazing
-reference for diagramming ideas.
+This book works both for those unfamiliar with urban design as well as for those already versed in it. The diagrams alone make good case studies of how to convey information.
 
 #### Toward an Architecture by Le Corbusier
 ![](img/towards.an.achitecture.jpg)
