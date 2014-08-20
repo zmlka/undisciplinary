@@ -30,6 +30,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Architecture is](architecture_is)
 * [Hendrik Petrus Berlage](hendrik_petrus_berlage)
 * [Brutalism](brutalism)
+* [Daido Moriyama](daido_moriyama)
 * [David Chipperfield](david_chipperfield)
 * [David Kopecký](david_kopecky)
 * [Fonts](fonts)

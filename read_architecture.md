@@ -70,7 +70,7 @@ exceptionally gifted writer as well as being deeply ingrained in today's
 architecture world. Being familiar with OMA's output is a practically mandatory
 for understanding contemporary architecture. The more you know,
 the more you can get out of the book, as it is far more than just project
-documentation.  Full anecdotes, related and unrelated thoughts, essays and
+documentation.  Full of anecdotes, related and unrelated thoughts, essays and
 thoughts. 
 
 Creating the tome was a massive undertaking, as is reading it.
@@ -80,7 +80,7 @@ Creating the tome was a massive undertaking, as is reading it.
 Amazon: [UK](http://www.amazon.co.uk/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0140042369&linkCode=as2&tag=zmlka-21&linkId=HMB4I5ZOP4CBYUMY) 
 and [US](http://www.amazon.com/gp/product/0140042369/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140042369&linkCode=as2&tag=wwwzmlkacom-20&linkId=LVOMIQ6GEECNYPWU)
 
-The design of cities is exceptionally well structured book on urban design.
+_The Design of Cities_ is exceptionally well structured book on urban design.
 Following the travels and learnings of the author, the book is a sequence of
 case studies on canonical acts of urbanism. The book stands out for its clarity
 of writing but above all its diagrams. Burke's diagrams typically use three
