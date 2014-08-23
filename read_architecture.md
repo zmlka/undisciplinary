@@ -131,7 +131,19 @@ it. The book develops your ability to think about buildings.
 Amazon [UK](http://www.amazon.co.uk/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0393731138&linkCode=as2&tag=zmlka-21)
 and [US](http://www.amazon.com/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393731138&linkCode=as2&tag=wwwzmlkacom-20)
 
-Never has Louis Kahn been more popular than now[^popular].
+Never has Louis Kahn been more popular[^popular].
+
+The selection of texts, discussions and lectures in this book is comprehensive,
+collecting pieces from 1944 till 1973, meaning that practically everything you
+would want is in the book. As with some of the other books suggested, this one
+nicely maps the progression in thinking that Kahn underwent, with the first
+piece being written before his stay at the American Academy in Rome.
+
+The current popularity of Kahn is founded on an image of him as a «Great
+Architect», rightfully so. Yet this is only half the story. After all, for
+example, The Parliament of Bangladesh was finished many years after his death.
+By not being familiar with Kahn's thoughts you miss out on why people paid
+attention to him in the first place.
 
 ### Books of interviews and lectures
 
