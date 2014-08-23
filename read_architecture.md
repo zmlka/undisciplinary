@@ -126,6 +126,13 @@ its influence is difficult to overstate. It allows one to understand
 developments in architecture in an entirely different way than before reading
 it. The book develops your ability to think about buildings.
 
+#### Louis Kahn: Essential Texts
+![](img/kahn.essential.texts.jpg)
+Amazon [UK](http://www.amazon.co.uk/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0393731138&linkCode=as2&tag=zmlka-21)
+and [US](http://www.amazon.com/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393731138&linkCode=as2&tag=wwwzmlkacom-20)
+
+Never has Louis Kahn been more popular than now[^popular].
+
 ### Books of interviews and lectures
 
 Architects often present their work in devious ways.
@@ -187,13 +194,47 @@ deal.
 Amazon [UK](http://www.amazon.co.uk/gp/product/1616890703/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1616890703&linkCode=as2&tag=zmlka-21)
 and [US](http://www.amazon.com/gp/product/1616890703/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1616890703&linkCode=as2&tag=wwwzmlkacom-20)
 
-#### Louis Kahn: Essential Texts
-![](img/kahn.essential.texts.jpg)
-Amazon [UK](http://www.amazon.co.uk/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0393731138&linkCode=as2&tag=zmlka-21)
-and [US](http://www.amazon.com/gp/product/0393731138/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393731138&linkCode=as2&tag=wwwzmlkacom-20)
+I have found that Tadao Ando is almost universally liked, or at least
+universally not disliked. Sometimes I speculate that this might have something
+to do not only with his architecture, which is very «architectonic», but also
+with his relative absence from the discourse. While many books are published
+about Ando, very few pick apart his brain. This one does so quite well.
+
+
+Written in the first person, it traces through his growth (the first chapter is
+entitled “Origins”) in a very intimate way. For many architects, once they
+reach mid-career they cease evolving their architecture, and the same could be
+said of Ando, who has been drawing the same building his entire life, you can
+almost tell from this book, which is an extremely gentle read. This does not
+make it boring, when you line up the facts, Ando's career, or at least its
+foundations, are quite unorthodox.
+
+The entire "Conversations" series is well worth a browse. 
+Calatrava ([UK](http://www.amazon.co.uk/gp/product/1568983255/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1568983255&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/1568983255/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1568983255&linkCode=as2&tag=wwwzmlkacom-20&linkId=O5LEX6TT2HSKDRJ3)), 
+Le Corbusier ([UK](http://www.amazon.co.uk/gp/product/1568981961/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1568981961&linkCode=as2&tag=zmlka-21), 
+[US](ttp://www.amazon.com/gp/product/1568981961/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1568981961&linkCode=as2&tag=wwwzmlkacom-20&linkId=YHRP4SINDIPWL7LP)), 
+Louis Kahn ([UK](http://www.amazon.co.uk/gp/product/156898149X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=156898149X&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/156898149X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=156898149X&linkCode=as2&tag=wwwzmlkacom-20&linkId=XYLQNWHFMKBKSQVT)), 
+Rem Koolhaas ([UK](http://www.amazon.co.uk/gp/product/1885232020/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1885232020&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/1885232020/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1885232020&linkCode=as2&tag=wwwzmlkacom-20&linkId=3UFRC3RAJBZCBQVL)), 
+Iam McHarg ([UK](http://www.amazon.co.uk/gp/product/1568986203/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1568986203&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/1568986203/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1568986203&linkCode=as2&tag=wwwzmlkacom-20&linkId=KBFIHNRVCHKKZIUE)), 
+Mies van der Rohe ([UK](http://www.amazon.co.uk/gp/product/1568987536/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1568987536&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/1568987536/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1568987536&linkCode=as2&tag=wwwzmlkacom-20&linkId=QWOBRJBKK23LMUSF)), 
+Frei Otto ([UK](http://www.amazon.co.uk/gp/product/1568988842/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1568988842&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/1568988842/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1568988842&linkCode=as2&tag=wwwzmlkacom-20&linkId=5ON2HFUVVFXWD54D)), 
+Paul Rand ([UK](http://www.amazon.co.uk/gp/product/1568987250/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1568987250&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/1568987250/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1568987250&linkCode=as2&tag=wwwzmlkacom-20&linkId=J3RPNPSWFZHJK2Q6)), 
+Peter Smithson ([UK](http://www.amazon.co.uk/gp/product/1568984618/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1568984618&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/1568984618/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1568984618&linkCode=as2&tag=wwwzmlkacom-20&linkId=OLM6HAPUW5MWTGCV)), 
+Paolo Soleri ([UK](http://www.amazon.co.uk/gp/product/161689055X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=161689055X&linkCode=as2&tag=zmlka-21), 
+[US](http://www.amazon.com/gp/product/161689055X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=161689055X&linkCode=as2&tag=wwwzmlkacom-20&linkId=SJVYWZGCGH5EO2LU)).
+
 
 [^atrap]: [ATRAP](http://www.atrap.org)
 
+[^popular]: I am writing this as the exhibition Louis Kahn: The Power of Architecture is making its way around the world, a few dozen months after the Four Freedoms Park was opened.
 
 
 
