@@ -42,6 +42,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Louis Camnitzer](louis_camnitzer)
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)
 * [Map and Territory](map_and_territory)
+* [Marshall McLuhan](marshall_mcluhan)
 * [Martin Heidegger](heidegger)
 * [Object Oriented Ontology](ooo)
 * [Office for Metropolitan Architecture](oma)
