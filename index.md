@@ -7,7 +7,6 @@ snippet: the personal wiki of Martin Zemlicka. Thinking about objects.
 _Undisciplinary (this site) is a wiki by [Martin
 Zemlicka](http://www.zmlka.com)_
 
-
 ## Lectures
 
 Lecture notes, in chronological order:
