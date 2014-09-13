@@ -1,9 +1,8 @@
 ---
 layout: default
 title: David Kopecky
-date: Tue 20.11.2012 23:20 CET
-categories: [ eternally gorwing ]
 tags: David Kopecky, ksa, architect, quotes
+snippet: notes on David Kopecký
 ---
 
 

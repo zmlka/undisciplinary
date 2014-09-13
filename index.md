@@ -33,6 +33,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Daido Moriyama](daido_moriyama)
 * [David Chipperfield](david_chipperfield)
 * [David Kopecký](david_kopecky)
+* [Eduardo Kohn](eduardo_kohn)
 * [Fonts](fonts)
 * [Future Systems](future_systems)
 * [Georg Wilhelm Friedrich Hegel](hegel)
@@ -54,7 +55,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 
 <!--
 
-[priavte](/_private/index)
+[privte](/_private/index)
 [zmlka](/../)
 
 -->
