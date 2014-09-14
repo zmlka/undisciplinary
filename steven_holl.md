@@ -15,7 +15,7 @@ Highline before the Highline".
 [Some Scans](http://imgur.com/a/ZVybp#NJfJSPu)
 
 > The site and structural foundation of the Manhattan Bridge of Houses is the
-> existing superstructure of an abandoned elevated rail link in teh Chelsea
+> existing superstructure of an abandoned elevated rail link in the Chelsea
 > area of New York City. This steel structure is utilised in its straight leg
 > form West 19th Street to West 29th Street parallel to the Hudson River (see
 > Manhattan site plan).
