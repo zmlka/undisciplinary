@@ -13,7 +13,7 @@ a masterpiece.
 > can be further from the spirit of the new technology than "a place for
 > everything and everything in its place". You can't <u>go</u> home again.
 >
-> <cite>Marshall McLuhan</cite>[The medium is the Massage](http://www.amazon.co.uk/gp/product/014103582X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014103582X&linkCode=as2&tag=zmlka-21)
+> <cite>Marshall McLuhan</cite>, [The medium is the Massage](http://www.amazon.co.uk/gp/product/014103582X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014103582X&linkCode=as2&tag=zmlka-21)
 
 > Environments are not passive wrappings, but are, rather, active processes
 > which are invisible. The groundrules, pervasive structure, and over-all
@@ -26,8 +26,8 @@ a masterpiece.
 > view. We speak, for instance, of "gaining perspective". This psychological
 > process derives unconsciously from print technology. 
 >
-> <cite>Marshall McLuhan</cite>[The medium is the Massage](http://www.amazon.co.uk/gp/product/014103582X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014103582X&linkCode=as2&tag=zmlka-21)
+> <cite>Marshall McLuhan</cite>, [The medium is the Massage](http://www.amazon.co.uk/gp/product/014103582X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014103582X&linkCode=as2&tag=zmlka-21)
 
 > Propaganda ends where dialogue begins
 >
-> <cite>Marshall McLuhan</cite>[The medium is the Massage](http://www.amazon.co.uk/gp/product/014103582X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014103582X&linkCode=as2&tag=zmlka-21)
+> <cite>Marshall McLuhan</cite>, [The medium is the Massage](http://www.amazon.co.uk/gp/product/014103582X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014103582X&linkCode=as2&tag=zmlka-21)
