@@ -1,6 +1,6 @@
 ---
 layout: index
-title: undisciplinary - Martin Zemlicka
+title: undisciplinary- Martin Zemlicka
 snippet: the personal wiki of Martin Zemlicka. Thinking about objects.
 ---
 

@@ -5,7 +5,7 @@ tags: Hegel, quotes
 snippet: info page on Hegel
 ---
 
-## Quotes
+# Quotes
 
 > A coup d’état is sanctioned as it were in the opinion of the people if it is
 > repeated. Thus, Napoleon was defeated twice and twice the Bourbons were
