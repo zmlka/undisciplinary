@@ -11,3 +11,7 @@ snippet: information page on Jacques Herzog
 >
 > <cite>Jacques Herzog</cite>, Hans Ulrich Olbrist's
 > [instagram](http://instagram.com/p/hlEhc1tlsK/)
+
+> The architect's role is to simultaneously reflect nature and remain autonomous.
+>
+> <cite>Jacques Herzog</cite>, quoted by Laurent Stalder in Prague on 02.10.2014
