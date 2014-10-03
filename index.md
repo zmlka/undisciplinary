@@ -14,6 +14,7 @@ Lecture notes, in chronological order:
 * [Christian Kerez in Prague](christian_kerez_prague)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
 * [Ákos Moravánskzy and Günther Vogt on environments](moravansky_vogt)
+* [Laurent Stalder on Swiss architecture and Adam Caruso on modernity](stalder_caruso)
 * [(CS) What is critical thinking?](what_is_critical_thinking)
 * [(CS) When is engineering architecture?](when_is_engineering_architecture)
 * [(CS) Whatever happened to the avant-garde?](whatever_happened_avant-garde)
