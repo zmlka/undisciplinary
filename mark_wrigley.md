@@ -15,11 +15,10 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 > <cite>Mark Wrigley</cite>, in an interview with Monika Mitášová, Oxymorón
 > & pleonasmus II. Translation from Czech by me.
 
-> **Q:** To what degree is [White
-> Walls][http://www.amazon.co.uk/gp/product/0262731452/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262731452&linkCode=as2&tag=zmlka-21&linkId=MA5JF7PSJIA3AQP4]
+> **Q:** To what degree is [White Walls](http://www.amazon.co.uk/gp/product/0262731452/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262731452&linkCode=as2&tag=zmlka-21&linkId=MA5JF7PSJIA3AQP4)
 > an attempt to write a critical history of modern architecture, say, in the
-> sense of a «canonical»
-> history, such as those written by Giedion, Banham and others?
+> sense of a «canonical» history, such as those written by Giedion, Banham and
+> others?
 >
 > **A:**It is to large degree an attempt to react to the canonical histories of
 > Banham, Pevsner, Giedion, etc. and doubt them, but above all I wanted to show
