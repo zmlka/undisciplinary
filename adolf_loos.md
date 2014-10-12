@@ -2,7 +2,7 @@
 layout: default
 title: Adolf Loos
 tags: adolf loos, quote, architecture
-snippet: information page Adolf Loos
+snippet: notes and thoughts on Adolf Loos
 ---
 
 ## Quotes
