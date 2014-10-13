@@ -20,15 +20,18 @@ tags: Rem Koolhaas, architect, quotes
 
 ### Quotes by others
 
-> The first, perhaps most general, principle to note is that in OMA's proposals
-> the *argument* always takes precedent over the *project*. In other words,
-> there is always primarily an *engine*, be it discursive or diagrammatic,
-> never a *design* that is introduced into the urban milieu to be reconfigured.
-> It is never a question of organising a space at the outset, but rather of
-> unleashing, trigging, or capturing larger and already existing processes.
+> It's Rem because he doesn't believe in grammar. That's Rem, and that's good.
+> Look, when he was at the Architecture Association School in 1972, in the
+> spring of '72 when he quit – because he never finish school, you have to
+> understand – because he went to the new director and he said, quote: "I want
+> to learn fundamentals. Where can I learn fundamentals?"
 >
-> <cite>Stanford Kwinter</cite>, Introduction to _Urbanism After Innocence:
-> Four Projects_ in Assemblage 18
+> And the director looked at him and said: "We don't teach fundamentals here.
+> We teach language." And then he quit. So there is a relationship between
+> quitting the school in 1972 and Fundamentals today.
+>
+> <cite>[Peter Eisenman](peter_eisenman)</cite>, June 2014 [interview about
+> Fundamentals](http://www.dezeen.com/2014/06/09/rem-koolhaas-at-the-end-of-career-says-peter-eisenman)
 
 
 ## Links

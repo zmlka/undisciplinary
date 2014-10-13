@@ -62,5 +62,16 @@ architecturally, they form an integrated complex; technically, issues of
 stability, access, circulation and servicing are organised collectively;
 urbanistically, the entire building becomes an urban quarter of a new kind.
 
+## Quotes
 
+### Quotes by others
 
+> The first, perhaps most general, principle to note is that in OMA's proposals
+> the *argument* always takes precedent over the *project*. In other words,
+> there is always primarily an *engine*, be it discursive or diagrammatic,
+> never a *design* that is introduced into the urban milieu to be reconfigured.
+> It is never a question of organising a space at the outset, but rather of
+> unleashing, trigging, or capturing larger and already existing processes.
+>
+> <cite>Stanford Kwinter</cite>, Introduction to _Urbanism After Innocence:
+> Four Projects_ in Assemblage 18

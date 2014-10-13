@@ -41,7 +41,7 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 > to be is exactly that without which there would be nothing. Modern
 > architecture is a great example to look at because it seemingly removed
 > everything that was not necessary to further the necessary. Ornament was one
-> of the easy targets, it was very simple to say: no, no, no! 
+> of the easy targets, it was very simple to say: no, no, no!
 >
 > I'm of the opinion that not a single architect from the modern movement
 > didn't believe that they were removing decoration. Le Corbusier was, most
