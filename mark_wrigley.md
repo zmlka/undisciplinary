@@ -50,8 +50,8 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 > white wall is the decorative art of today; that removing decoration is the
 > decorative stance of today's time. He knew very well that he was not removing
 > ornament – he newly defined what it should be. Just like Adolf Loos, who
-> allowed decoration suitable for the it's time. The book, therefore, attempted
-> to get people to think more about ornament than modern architecture.
+> allowed decoration suitable for it's time. The book, therefore, attempted to
+> get people to think more about ornament than modern architecture.
 >
 > <cite>Mark Wrigley</cite>, in an interview with Monika Mitášová, Oxymorón
 > & pleonasmus II. Translation from Czech by me.

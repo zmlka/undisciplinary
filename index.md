@@ -28,6 +28,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Adolf Loos](adolf_loos)
 * [Arata Isozaki](arata_isozaki)
 * [Architecture is](architecture_is)
+* [Bearteiz Colomina](beatriz_colomina)
 * [Bon mots](bon_mots)
 * [Brutalism](brutalism)
 * [Cedric Price](cedric_price)
