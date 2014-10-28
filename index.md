@@ -14,12 +14,13 @@ Lecture notes, in chronological order:
 * [Christian Kerez in Prague](christian_kerez_prague)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
 * [Ákos Moravánskzy and Günther Vogt on environments](moravansky_vogt)
-* [Laurent Stalder on Swiss architecture and Adam Caruso on modernity](stalder_caruso)
 * [(CS) What is critical thinking?](what_is_critical_thinking)
 * [(CS) When is engineering architecture?](when_is_engineering_architecture)
 * [(CS) Whatever happened to the avant-garde?](whatever_happened_avant-garde)
 * [(CS) What is modern about modern architecture?](what_is_modern_modern_architecture)
 * [(CS) Parametricism: Style or substance?](parametricism_style_substance)
+* [Laurent Stalder on Swiss architecture and Adam Caruso on modernity](stalder_caruso)
+* [Discussion about Tranzitdisplay](tranzitdisplay_discussion)
 
 ## Hypomnema
 
