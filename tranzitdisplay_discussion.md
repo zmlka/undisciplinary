@@ -7,7 +7,7 @@ snippet: Notes from a lecture/discussion with/about Tranzitdisplay and what it i
 
 _22.10.2014, [Tranzitdisplay](http://www.tranzitdisplay.cz), Prague_
 
-Zbyněk Baladrán: co-curator of TD, artist
+Zbyněk Baladrán: co-curator of TD, artist  
 Ondřej Horák: runs educational programmes for TD, does many things outside of it
 
 ## Notes
