@@ -6,6 +6,8 @@ tags: Heidegger, phenomenology, quotes
 
 ## Notes
 
+<!---
+
 ### Some stuff I found sitting on my hard disk
 
 This is old, years old, and needs to be pruned. Notes about early readings of
@@ -67,3 +69,4 @@ Heidegger.
   That's in your face
 
 
+-->

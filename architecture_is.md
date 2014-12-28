@@ -4,6 +4,10 @@ title: Architecture Is
 tags: architecture, theory, pilosophy, definition, quotes
 ---
 
+* Architecture is a series of failures of people thinking their beliefs apply
+  to others. That how they think life should be lived is how live should be
+  lived.
+
 ## Quotes
 
 > Architecture is the masterly, correct, and magnificent play of masses brought

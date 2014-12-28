@@ -57,6 +57,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Reading Architecture: Frequently Recommended Books](read_architecture)
 * [Rem Koolhaas](rem_koolhaas)
 * [Steven Holl](steven_holl)
+* [Thomas Pynchon](thomas_pynchon)
 * [Walter Gropius](walter_gropius)
 
 
