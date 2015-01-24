@@ -44,6 +44,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Hendrik Petrus Berlage](hendrik_petrus_berlage)
 * [Brutalism](brutalism)
 * [Hans Hollein](hans_hollein)
+* [Infinite Jest](infinite_jest)
 * [Jacques Herzog](jacques_herzog)
 * [Louis Camnitzer](louis_camnitzer)
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)

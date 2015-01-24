@@ -60,20 +60,16 @@ Amazon: [UK](http://www.amazon.co.uk/gp/product/1885254865/ref=as_li_tl?ie=UTF8&
 and [US](http://www.amazon.com/gp/product/1885254865/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1885254865&linkCode=as2&tag=wwwzmlkacom-20&linkId=2E4U57GWC6ZAIGH7)
 
 
-That's a picture of my battered copy of the book. First read before even starting
-architecture studies, enjoyed it very much at the time. I flip through it
-regularly.
+That's a picture of the battered state of my copy after five years.
 
-Although S, M, L, XL is a monograph of a single office, what makes it so
-appealing and gives it such «replay value» is that Koolhaas is an
-exceptionally gifted writer as well as being deeply ingrained in today's
-architecture world. Being familiar with OMA's output is a practically mandatory
-for understanding contemporary architecture. The more you know,
-the more you can get out of the book, as it is far more than just project
-documentation.  Full of anecdotes, related and unrelated thoughts, essays and
-thoughts. 
+First enjoyed S, M, L, XL even before starting architecture studes, and still
+flip through it regularly. Creating this tome was a massive undertaking for
+OMA, as is reading it, but it is worth it. Within the profession, it is assumed
+that you are familiar with the book, the projects, essays and critiques in it.
+Koolhaas, having been a journalist and scriptwriter prior to becoming an
+architect, writes well, and his style of rhetoric is a welcome contrast to
+archispeak.
 
-Creating the tome was a massive undertaking, as is reading it.
 
 #### Design of Cities by Edmund Bacon
 ![](img/design.of.cities.jpg)

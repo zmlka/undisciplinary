@@ -16,6 +16,7 @@ the ones from others escape me.
   something; then theory is the exploration of how those conditions could come
   to be, and their meaning.
 - Books don't have negative space.
+- Life is logistics.
 
 ## Others
 
