@@ -7,51 +7,67 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 
 ## Quotes
 
-> I'm chiefly considered a theoretician, then as a historian of theory, and
-> thirdly, maybe, as a historian. What does that mean? That as a theoretician
-> I'm more interested in things that stay the same than things that change – as
-> a historian you are very concerned with what changes.
+> I would be first understood as a theorist; then, secondly, as a historian of
+> theory; then, only thirdly, as a historian, maybe. What does that mean? That,
+> as a theorist, I'm more interested in the things that stay the same than the
+> things that change – as a historian, you're very much interested in the
+> change.
 >
-> <cite>Mark Wrigley</cite>, in an interview with Monika Mitášová, Oxymorón
-> & pleonasmus II. Translation from Czech by me.
+>
+>
+> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, [Oxymoron and
+> Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)
 
-> **Q:** To what degree is [White Walls](http://www.amazon.co.uk/gp/product/0262731452/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262731452&linkCode=as2&tag=zmlka-21&linkId=MA5JF7PSJIA3AQP4)
-> an attempt to write a critical history of modern architecture, say, in the
-> sense of a «canonical» history, such as those written by Giedion, Banham and
-> others?
+> **Q:** To what extent is [White Walls](http://www.amazon.co.uk/gp/product/0262731452/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262731452&linkCode=as2&tag=zmlka-21&linkId=MA5JF7PSJIA3AQP4)
+> driven by an attempt to write a critical history of modern architecture
+> histories, let's say, like the “canonical” historiographies by Giedion,
+> Banham, etc.?
 >
-> **A:**It is to large degree an attempt to react to the canonical histories of
-> Banham, Pevsner, Giedion, etc. and doubt them, but above all I wanted to show
-> how problematic the most obvious aspects of modern architecture are – only
-> looking at the evident ones, no subtleties. There are a million other books
-> that revise the history of modern architecture, all of which I like and are
-> much more sophisticated than mine and deal with complicated issues, such as
-> post-colonial identity, economic power, etc. 
+> **A:**> It very much is an attempt to challenge or to question the canonic
+> histories of Banham, Pevsner, Giedion, and so on, but mainly to show how the
+> most obvious aspects of modern architecture were problematic – just the most
+> obvious, nothing subtle. There are millions of other books, revisionist
+> histories of modern architecture being written, all of which I like, very
+> much, and they're much more sophisticated and deal with much more
+> complicated questions of post-colonial identity and economic power and so on.
+> But I am just fascinated with a box with white walls and a flat roof, how
+> that one little thing never ever came close to being sort of in an obvious
+> synergy with the descriptions of it. Modern architecture never was what it
+> was said to be, in its most basic level. So one was the desire to call into
+> question those points of view, not for the historical reasons, but for the
+> theoretical reasons. In the end, what fascinates me the most is ornament.
+> Basically it's a book about ornament, as was the book on deconstruction.
 >
-> But I'm simply just fascinated by a box with white walls and a flat roof, and
-> the way that this thing was never even close to being was written about it.
-> Modern architecture was never what was said it was, not even on the most
-> fundamental level. I wanted to call into doubt these points of view – not for
-> historical reasons, but theoretical ones. At the end of the day, I'm most
-> fascinated by ornament.  Basically it's a book about ornament, the same way
-> that the book about deconstruction was about ornament too.
+> Ornament, by definition, is that which does not need to be there. And nothing
+> is more pleasurable for me than showing that the thing that does not need to
+> be there is the one thing without which nothing could be there. So to say
+> that that was true of modern architecture is just the very example, because
+> modern architecture appeared to remove that which was unnecessary, in the
+> favor of the necessary. So the ornament was an easy victim, oh no, no no!
+> There was, in my opinion, not a single architect of the circle of the modern
+> movement who believed that they were removing decoration, Le Corbusier being
+> probably one of the most intelligent; his slogan that the decorative art of
+> today was that art which was not decorative, fully understands the paradox
+> that the plain white wall is the decorative art of his day; that removing
+> decoration is the decorative posture of his time. So he knew perfectly that
+> he was not removing decoration – he was redefining what it should be. Like
+> Adolf Loos, arguing that what was the appropriate decoration for his time. So
+> the book was more trying to make people thing about decoration than think
+> about moderna architecture, ultimately.
 >
-> Ornament is, by definition, something that does not have to be. To me there
-> is nothing more pleasing than to show that the very thing that does not have
-> to be is exactly that without which there would be nothing. Modern
-> architecture is a great example to look at because it seemingly removed
-> everything that was not necessary to further the necessary. Ornament was one
-> of the easy targets, it was very simple to say: no, no, no!
+> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, [Oxymoron and
+> Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)
+
+> **Q:** … What is the role of theory in deconstructivist architecture?
 >
-> I'm of the opinion that not a single architect from the modern movement
-> didn't believe that they were removing decoration. Le Corbusier was, most
-> likely, the smartest, and his slogan that the decorative arts of today is art
-> which is not decorative, shows perfect understanding of the paradox that a
-> white wall is the decorative art of today; that removing decoration is the
-> decorative stance of today's time. He knew very well that he was not removing
-> ornament – he newly defined what it should be. Just like Adolf Loos, who
-> allowed decoration suitable for it's time. The book, therefore, attempted to
-> get people to think more about ornament than modern architecture.
+> **A:** Zero. It had zero role. Bernard Tschumi and Peter Eisenman had a
+> self-conscious understanding of deconstruction. Libeskind had a kind of
+> Babylon babble, not to discredit it. Gehry has a clearly anti-theory theory,
+> and so on and so on.
 >
-> <cite>Mark Wrigley</cite>, in an interview with Monika Mitášová, Oxymorón
-> & pleonasmus II. Translation from Czech by me.
+> … Theory itself played no role. Well, to put it another way, in no way did
+> their specific knowledge of theory (in the case of Tschumi and Eisenman) in
+> any way contribute to their projects.
+> 
+> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, [Oxymoron and
+> Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)

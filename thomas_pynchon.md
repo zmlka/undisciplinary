@@ -7,7 +7,7 @@ tags: literature, book, Thomas Pynchon, quotes
 ## Quotes
 
 The aware room. The end of the first paragraph of _The Crying of Lot 49_. ‘The
-room‘ here referring to the combination of a space and its boundaries, not other
+room’ here referring to the combination of a space and its boundaries, not other
 occupants of the space (as would be the case when saying “the whole room looked
 at me”), for Oedipa is the only person present.
 
