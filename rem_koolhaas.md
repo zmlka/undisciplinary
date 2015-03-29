@@ -33,9 +33,17 @@ tags: Rem Koolhaas, architect, quotes
 > <cite>[Peter Eisenman](peter_eisenman)</cite>, June 2014 [interview about
 > Fundamentals](http://www.dezeen.com/2014/06/09/rem-koolhaas-at-the-end-of-career-says-peter-eisenman)
 
+> For Rem, the project comes down to the idea of how can formal and
+> organizational constraints (the grid, for example) paradoxically create
+> programmatic liberties? How can architecture change behaviour? He's always
+> pursued the same project – that's what _Delerious New York_ was about.
+>
+> <cite>Sarah Whiting</cite>, interview with Monika Mitášová, [Oxymoron and
+> Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)
 
 ## Links
 
+* [OMA](oma) - OMA page, split for I dunno why.
 * [Interview at index magazine](http://www.indexmagazine.com/interviews/rem_koolhaas.shtml)
 * [Wired interview](http://www.wired.com/wired/archive/4.07/koolhaas.html?pg#2&topic#)
 * [Lecture at Berlage Institute](http://vimeo.com/25071414) - The lecture

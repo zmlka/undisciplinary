@@ -52,3 +52,15 @@ Only then will we have an architecture worthy of its
 name:  
 Architecture as a true symbol of our time.  
 
+
+## Quotes
+
+
+### Quotes by others
+
+> Mies is the great architect of the affect. This is ironic in a way, because
+> the traditional explanation of Mies is he's the architect of detail,
+> tectonics and materiality.
+>
+> <cite>Stan Allen</cite>, interview with Monika Mitášová, [Oxymoron and
+> Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)

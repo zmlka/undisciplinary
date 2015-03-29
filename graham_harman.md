@@ -33,7 +33,7 @@ snippet: info page on Graham Harman
 > <cite>Graham Harman</cite>, [Object Oriented
 > Ontology](http://www.beyng.com/OOP.html)
 
-> "A traditional Zen story speaks of a temple novice who hoped to attain
+> A traditional Zen story speaks of a temple novice who hoped to attain
 > enlightenment by chopping a cat in half with a sword. Witnessing the
 > preparations for this atrocity, the head monk cried out and asked the
 > newcomer to explain himself.
@@ -54,3 +54,20 @@ snippet: info page on Graham Harman
 > Objects](http://www.amazon.co.uk/gp/product/0812694449/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0812694449&linkCode=as2&tag=zmlka-21),
 > page 87-88.
 
+> philosophy absolutely must no try to be an instruction manual or architecture
+> or for anything else. If someone does work in any field that literally
+> embodies a given philosophy, then there's no reason to do that work, we can
+> just read philosophy.
+>
+> <cite>Graham Harman</cite, The Object Turn: in Conversation, in Log [Log
+> 33](http://www.anycorp.com/log/33)
+
+> The object must not be replaced by knowledge! The object cannot be
+> paraphrased, , just as a metaphor cannot be paraphrased. What I love so much
+> about architecture and the arts, and what I think some practitioners in these
+> fields like about my work, is that in architecture and the arts you are most
+> likely a _failure_ if your productions can be adequately paraphrased in
+> therms of some sort of knowledge. 
+>
+> <cite>Graham Harman</cite, The Object Turn: in Conversation, in Log [Log
+> 33](http://www.anycorp.com/log/33)

@@ -8,11 +8,14 @@ snippet: notes and thoughts on architecure historian and theorist Beatriz Colomi
 
 ## Quotes
 
-> My reading of the story is that the first architect was Aridane, not Deadalus
-> as is often said, because even though he built the labyrinth, she was the one
-> that was able to decode it by using string to find out its layout.  That is,
-> disregarding the apparent unstructure of the labyrinth, there exists a way to
-> show its structure. And she represents structure.
+> My reading of the story is that Ariadne is the first architect, not Deadalus
+> as it is usually said; because although he built the labyrinth, she is the
+> one that was able to decipher it by basically figuring out the order that is
+> actually in the labyrinth with the use of a thread. So, despite the apparent
+> disorder of the labyrinth there is a way of representing its order, and she
+> represents that order. That's why I like this myth of Ariadne, because it
+> contradicts the usual expectations of merging disorder with the feminine.
+> Here, the feminine is the figure that will get you out of the disorder.
 >
-> <cite>Beatriz Colomina</cite>, in an interview with Monika Mitášová, Oxymorón
-> & pleonasmus II. Translation from Slovak by me.
+> <cite>Beatriz Colomina</cite>, interview with Monika Mitášová, [Oxymoron and
+> Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)
