@@ -5,7 +5,7 @@ tags: panel discussion, critical subjects, arup associates, modernism
 snippet: notes and thoughts from a panel discussion on modern architecture featuring Robert Adam, Dickon Robinson and Penny Lewis
 ---
 
-*15.07.2014 – Zaha Hadid Architects, London*
+_15.07.2014 – Zaha Hadid Architects, London_
 
 Part of the Critical Subjects summer school series of debates, lectures and
 panel discussions.

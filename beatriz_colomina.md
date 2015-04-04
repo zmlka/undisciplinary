@@ -17,5 +17,5 @@ snippet: notes and thoughts on architecure historian and theorist Beatriz Colomi
 > contradicts the usual expectations of merging disorder with the feminine.
 > Here, the feminine is the figure that will get you out of the disorder.
 >
-> <cite>Beatriz Colomina</cite>, interview with Monika Mitášová, [Oxymoron and
+> <cite>Beatriz Colomina</cite>, interview with Monika Mitášová, in: [Oxymoron and
 > Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)

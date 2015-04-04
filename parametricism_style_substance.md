@@ -5,7 +5,7 @@ tags: panel discussion, critical subjects, arup associates, avant1.garde
 snippet: notes and thoughts from a panel discussion on the avant1.garde featuring Catherine Rossi, Kim Quazi, Joseph Young and Michael Daley
 ---
 
-*15.07.2014 – Zaha Hadid Architects, London*
+_15.07.2014 – Zaha Hadid Architects, London_
 
 Part of the Critical Subjects summer school series of debates, lectures and
 panel discussions.

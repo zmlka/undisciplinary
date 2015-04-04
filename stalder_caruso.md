@@ -5,7 +5,7 @@ tags: lecture, ETH, architecture, modernity, swiss
 snippet: notes and thoughts from a lecture by Stalder and Caruso in Prague 2014
 ---
 
-*02.10.2014, Kino Světozor, Prague*
+_02.10.2014, Kino Světozor, Prague_
 
 A double lecture organised by [KRUH](http://www.kruh.info/) as part of their
 ETH themed lecture series. During Laurent Stalder's lecture there were multiple

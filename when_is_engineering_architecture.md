@@ -5,7 +5,7 @@ tags: panel discussion, critical subjects, arup associates, architecture, engine
 snippet: notes and thoughts from a panel discussion on enginnering with Steve Webb, Paul Reeves, David Marks and John Roycroft
 ---
 
-*14.07.2014 – ARUP Associates, London*
+_14.07.2014 – ARUP Associates, London_
 
 Part of the Critical Subjects summer school series of debates, lectures and
 panel discussions.

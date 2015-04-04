@@ -15,7 +15,7 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 >
 >
 >
-> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, [Oxymoron and
+> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, in: [Oxymoron and
 > Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)
 
 > **Q:** To what extent is [White Walls](http://www.amazon.co.uk/gp/product/0262731452/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262731452&linkCode=as2&tag=zmlka-21&linkId=MA5JF7PSJIA3AQP4)
@@ -23,7 +23,7 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 > histories, let's say, like the “canonical” historiographies by Giedion,
 > Banham, etc.?
 >
-> **A:**> It very much is an attempt to challenge or to question the canonic
+> **A:** It very much is an attempt to challenge or to question the canonic
 > histories of Banham, Pevsner, Giedion, and so on, but mainly to show how the
 > most obvious aspects of modern architecture were problematic – just the most
 > obvious, nothing subtle. There are millions of other books, revisionist
@@ -55,7 +55,7 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 > the book was more trying to make people thing about decoration than think
 > about moderna architecture, ultimately.
 >
-> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, [Oxymoron and
+> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, in: [Oxymoron and
 > Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)
 
 > **Q:** … What is the role of theory in deconstructivist architecture?
@@ -69,5 +69,5 @@ snippet: notes and thoughts on architecture theoretician Mark Wrigley
 > their specific knowledge of theory (in the case of Tschumi and Eisenman) in
 > any way contribute to their projects.
 > 
-> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, [Oxymoron and
+> <cite>Mark Wrigley</cite>, interview with Monika Mitášová, in: [Oxymoron and
 > Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)

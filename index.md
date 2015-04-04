@@ -21,6 +21,7 @@ Lecture notes, in chronological order:
 * [(CS) Parametricism: Style or substance?](parametricism_style_substance)
 * [Laurent Stalder on Swiss architecture and Adam Caruso on modernity](stalder_caruso)
 * [Discussion about Tranzitdisplay](tranzitdisplay_discussion)
+* [Pier Vittorio Aureli: after the diagram](aureli_diagram)
 
 ## Hypomnema
 
@@ -55,6 +56,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Office for Metropolitan Architecture](oma)
 * [Peter Eisenman](peter_eisenman)
 * [Reading Architecture: Frequently Recommended Books](read_architecture)
+* [Robert Somol](robert_somol)
 * [Rem Koolhaas](rem_koolhaas)
 * [Steven Holl](steven_holl)
 * [Thomas Pynchon](thomas_pynchon)

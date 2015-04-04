@@ -5,7 +5,7 @@ tags: lecture, ETH, architecture, landscape
 snippet: notes and thoughts from a lecture by Vogt and Moravánskzy in Prague 2014
 ---
 
-*05.06.2014, Kino Světozor, Prague*
+_05.06.2014, Kino Světozor, Prague_
 
 A double lecture organised by [KRUH](http://www.kruh.info/) as part of their
 ETH themed lecture series. Each presenter spoke for about an hour, with,

@@ -31,3 +31,17 @@ a masterpiece.
 > Propaganda ends where dialogue begins
 >
 > <cite>Marshall McLuhan</cite>, [The medium is the Massage](http://www.amazon.co.uk/gp/product/014103582X/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014103582X&linkCode=as2&tag=zmlka-21)
+
+### Quotes by Others
+
+Haven't found the original mention of the "sunset effect", which is used to
+describe the shortcomings of one thing being used to power something that came
+after it. Not in the positive sense that they are overcome, but in the sense
+that they are doubled down on.
+
+> Marshall McLuhan aptly termed a sunset effect, an exaggerated caricature of
+> now obsolete characteristics of a waning era. Parametricism and icons
+> exacerbate rather than solve the main failings of modern architecture.
+>
+> <cite>Peter Buchanan</cite>, Empty Gestures, in: The Architectural Review
+> 1417

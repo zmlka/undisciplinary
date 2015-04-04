@@ -59,7 +59,7 @@ snippet: info page on Graham Harman
 > embodies a given philosophy, then there's no reason to do that work, we can
 > just read philosophy.
 >
-> <cite>Graham Harman</cite, The Object Turn: in Conversation, in Log [Log
+> <cite>Graham Harman</cite>, The Object Turn: in Conversation, in: [Log
 > 33](http://www.anycorp.com/log/33)
 
 > The object must not be replaced by knowledge! The object cannot be
@@ -68,6 +68,6 @@ snippet: info page on Graham Harman
 > fields like about my work, is that in architecture and the arts you are most
 > likely a _failure_ if your productions can be adequately paraphrased in
 > therms of some sort of knowledge. 
->
-> <cite>Graham Harman</cite, The Object Turn: in Conversation, in Log [Log
+> 
+> <cite>Graham Harman</cite>, The Object Turn: in Conversation, in: [Log
 > 33](http://www.anycorp.com/log/33)
