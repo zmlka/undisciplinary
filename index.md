@@ -22,6 +22,7 @@ Lecture notes, in chronological order:
 * [Laurent Stalder on Swiss architecture and Adam Caruso on modernity](stalder_caruso)
 * [Discussion about Tranzitdisplay](tranzitdisplay_discussion)
 * [Pier Vittorio Aureli: after the diagram](aureli_diagram)
+* [Reiner de Graaf: The risk of realism](reiner_de_graaf_risk_realism)
 
 ## Hypomnema
 
@@ -46,6 +47,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Hans Hollein](hans_hollein)
 * [Infinite Jest](infinite_jest)
 * [Jacques Herzog](jacques_herzog)
+* [Kenneth Frampton](kenneth_frampton)
 * [Louis Camnitzer](louis_camnitzer)
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)
 * [Map and Territory](map_and_territory)
