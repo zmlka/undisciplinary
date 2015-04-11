@@ -42,7 +42,7 @@ buildings amoral, as they are beyond judgement; fuck context).
 Bigness is a way out of the inevitable death of architecture ignited by May
 '68 that resulted in two possible modes of architecture: dismantlement
 (breaking the system by creating arbitrary systems[^attack1]) and disappearance
-(virtuality [attack2]). How?
+(virtuality [^attack2]). How?
 
 > Only through Bigness can architecture dissociate itself form the exhausted
 > artistic/ideological movements of modernism and formalism to regain its
