@@ -4,16 +4,13 @@ title: Rem Koolhaas
 tags: Rem Koolhaas, architect, quotes
 ---
 
-## Notes
-
-
-### Texts
+## Texts
 
 For my own bad memory's sake, I'm making small summaries and reminders of
 Koolhaas' texts.
 
 
-#### Bigness
+### Bigness
 
 First things first, let's clear up the following two words:
 
