@@ -145,15 +145,6 @@ Talking about his first encounter with a constructivist urban plan:
 * [Building the Seattle Library](http://www.youtube.com/watch?v=1x0PA0Rnjho)
 
 
-[^attack1]: Which Koolhaas discredits as follows: “The programmatic hybridizations / proximities / frictions /
-overlaps / superposition's that are possible in Bigness  – in fact, the entire
-apparatus of _montage_ invented at the beginning of the century to organize
-relationships between independent parts – are being undone by one section of
-the present avant-garde in compositions of almost laughable pedantry and
-rigidity, behind apparent wildness.
+[^attack1]: Which Koolhaas discredits as follows: “The programmatic hybridizations / proximities / frictions / overlaps / superposition's that are possible in Bigness  – in fact, the entire apparatus of _montage_ invented at the beginning of the century to organize relationships between independent parts – are being undone by one section of the present avant-garde in compositions of almost laughable pedantry and rigidity, behind apparent wildness.
 
-[^attack2]: Which Koolhaas discredits as follows: “Pre-empting architecture's
-actual disappearance, _this_ avant-garde is experimenting with real or
-simulated virtuality, reclaiming, in the name of modesty, its former
-omnipotence in the world of virtual realit (where fascism may be pursued with
-impunity?)”
+[^attack2]: Which Koolhaas discredits as follows: “Pre-empting architecture's actual disappearance, _this_ avant-garde is experimenting with real or simulated virtuality, reclaiming, in the name of modesty, its former omnipotence in the world of virtual realit (where fascism may be pursued with impunity?)”
