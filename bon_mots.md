@@ -17,6 +17,8 @@ the ones from others escape me.
   to be, and their meaning.
 - Books don't have negative space.
 - Life is logistics.
+- gap + taste = art
+
 
 ## Others
 

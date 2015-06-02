@@ -83,12 +83,13 @@ just and what is effective?
    beforehand. eg: Venezuela, Egypt.
     1. Architects work a lot in the in-between countries. So much so that there
        is a celebration of them in the profession. On their efficiencies.
-    1. Qutotes Foster, Koolhaas, Eisenman, Gehry, Tschumi, praising.
+    1. Qutotes Foster, Koolhaas, Eisenman, Gehry, Tschumi, praising such
+       regimes.
 1. Question time notes:
-    1. I didn't mean to be pessimistic.
-    1. Speaker points out that nothing was proposed. Answer: "I'm not of the
+    1. “I didn't mean to be pessimistic.”
+    1. Speaker points out that nothing was proposed. Answer: “I'm not of the
        school, and this is a very Dutch thing in a way, that if you have an
-       analysis you also need to have a solution."
+       analysis you also need to have a solution.”
     1. "To treat finance as an aspect of design is absent in architecture"
     1. "If you go to any computer conference, any TED talk, you see this whole
        wave of naive optimism."

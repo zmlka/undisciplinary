@@ -9,7 +9,7 @@ Zemlicka](http://www.zmlka.com)_
 
 ## Lectures
 
-Lecture notes, in chronological order:
+Lecture notes, in sorted by date of genesis:
 
 * [Christian Kerez in Prague](christian_kerez_prague)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
@@ -22,7 +22,8 @@ Lecture notes, in chronological order:
 * [Laurent Stalder on Swiss architecture and Adam Caruso on modernity](stalder_caruso)
 * [Discussion about Tranzitdisplay](tranzitdisplay_discussion)
 * [Pier Vittorio Aureli: after the diagram](aureli_diagram)
-* [Reiner de Graaf: The risk of realism](reiner_de_graaf_risk_realism)
+* [Reiner de Graaf: the risk of realism](reiner_de_graaf_risk_realism)
+* [Karel Císař: public sculpture](karel_cisar_public_scuplture)
 
 ## Hypomnema
 
@@ -37,6 +38,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Cedric Price](cedric_price)
 * [Daido Moriyama](daido_moriyama)
 * [David Chipperfield](david_chipperfield)
+* [David Foster Wallace](david_foster_wallace)
 * [David Kopecký](david_kopecky)
 * [Eduardo Kohn](eduardo_kohn)
 * [Fonts](fonts)
@@ -48,6 +50,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Infinite Jest](infinite_jest)
 * [Jacques Herzog](jacques_herzog)
 * [Kenneth Frampton](kenneth_frampton)
+* [Ladislav Žák](ladislav_zak)
 * [Louis Camnitzer](louis_camnitzer)
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)
 * [Map and Territory](map_and_territory)
@@ -63,7 +66,6 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Steven Holl](steven_holl)
 * [Thomas Pynchon](thomas_pynchon)
 * [Walter Gropius](walter_gropius)
-
 
 <!--
 

@@ -67,8 +67,8 @@ Bigness is a way out of the inevitable death of architecture ignited by May
 > Bigness = urbanism vs  architecture.
 
 The point of all of this, as understood by me, is pretty simple. Big things are
-different from small things. This simple statement is so simple that it
-approaches the sort of tautological word play you intuitively don't take
+different from small things. This statement is so simple that it
+approaches the sort of zen-like word play you intuitively don't take
 seriously or think about further, which indeed architects haven't. That's not
 to say that designing something big is different from designing something
 small, it is to say that a big object is different from a small one. A big
