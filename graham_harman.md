@@ -63,7 +63,7 @@ snippet: info page on Graham Harman
 > 33](http://www.anycorp.com/log/33)
 
 > The object must not be replaced by knowledge! The object cannot be
-> paraphrased, , just as a metaphor cannot be paraphrased. What I love so much
+> paraphrased, just as a metaphor cannot be paraphrased. What I love so much
 > about architecture and the arts, and what I think some practitioners in these
 > fields like about my work, is that in architecture and the arts you are most
 > likely a _failure_ if your productions can be adequately paraphrased in
