@@ -54,6 +54,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Ladislav Žák](ladislav_zak)
 * [Louis Camnitzer](louis_camnitzer)
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)
+* [Maison Martin Margiela](mmm)
 * [Map and Territory](map_and_territory)
 * [Mark Wrigley](mark_wrigley)
 * [Marshall McLuhan](marshall_mcluhan)

@@ -68,6 +68,10 @@ tags: architecture, theory, pilosophy, definition, quotes
 >
 > <cite>[Nick Axel](https://twitter.com/alucidwake/status/321930686296633344)</cite>
 
+> Architecture is a fuzzy amalgamation of contemporary practice, an awkward way
+> to look at the world and an inadequate medium to operate on it.
+>
+> <cite>[Rem Koolhaas](rem_koolhaas)</cite>, [Content](http://amzn.to/23kabPa)
 
 
 ## Links

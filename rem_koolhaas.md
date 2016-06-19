@@ -105,6 +105,23 @@ Talking about his first encounter with a constructivist urban plan:
 > <cite>Rem Koolhaas</cite>, [Russia for Beginners](https://youtu.be/6oelsf4pdZg), lecture at Garage in
 > Moscow.
 
+
+> Architecture is a fuzzy amalgamation of contemporary practice, an awkward way
+> to look at the world and an inadequate medium to operate on it.
+>
+> Any architectural project takes five years; no single enterprise – ambition,
+> intention, need – remains unchanged in the contemporary maelstrom.
+> Architecture is too slow. Yet, the word ‘architecture’ is still pronounced
+> with certain reverence (outside the profession). It embodies the lingering
+> hope – or the vague memory of a hope – that shape, form, coherence could be
+> imposed on the violent surf of information that washes over us daily. Maybe,
+> architecture doesn't have to be stupid after all. Liberated from the
+> obligation to construct, it can become a way of thinking about anything – a
+> discipline that represents relationships, proportions, connections, effects,
+> the diagram of everything.
+>
+> <cite>[Rem Koolhaas](rem_koolhaas)</cite>, [Content](http://amzn.to/23kabPa)
+
 ### Quotes by others
 
 > It's Rem because he doesn't believe in grammar. That's Rem, and that's good.
