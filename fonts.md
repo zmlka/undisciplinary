@@ -23,20 +23,26 @@ snippet: martin zemlicka's font selection
 >
 > <cite>Massimo Vignelli</cite>, [We Use Way Too Many Fonts](http://bigthink.com/videos/we-use-way-too-many-fonts)
 
-So I am sifting, results below. Ordered in terms of least likeliness
-to be removed from the list after more sifting. It's what I use for print, web
-is slightly different because none of those sans-serifs are common across
-platforms.
+Note that I don't necessarily subscribe to the minimalist/modernist ideology
+presented by Vignelli, but if you, like me, are not a designer, you don't have
+the knowledge and sensitivity to be able to make fine-tuned decisions
+about typography. I will never design anything other than personal projects, so
+it is easier for me to have a go to list of «good enough» instead of torturing
+out an eventual bad decision.
 
-3. **Berthold Baskerville** – Extremely clean, lovely italics. Legible.
-3. **FF DIN** - Instant classic. Started off using it mainly for architecture
+So I am sifting, results below. Ordered in terms of least likeliness
+to be removed from the list after more sifting.
+
+1. **Berthold Baskerville** – Extremely clean, lovely italics. Legible.
+2. **FF DIN** - Instant classic. Started off using it mainly for architecture
    related things, now used practically everywhere.
-3. **FF Meta** – Humanist. The Anti-Helvetica, and really damn useful.
-1. **Linotype Gianotten** – This used to be Bodoni, but now I have switched
+3. **Frutiger Neue** – 
+4. **FF Meta** – The Anti-Helvetica or whatever, and really damn useful.
+5. **Linotype Gianotten** – This used to be Bodoni, but now I have switched
    over to primarily using a [Bodoni derivative](http://www.linotype.com/1046/linotypegianotten-family.html).
-2. **Adobe Garamond** – Looks very good on bad paper.
-5. **Linoype Univers** – Not really a universal font as the name would suggest.
-2. **Permian** - [link](http://permian.design.ru/). Designed for the city of
+6. **Adobe Garamond** – Looks very good on bad paper.
+7. **Linoype Univers** – Not really a universal font as the name would suggest.
+8. **Permian** - [link](http://permian.design.ru/). Designed for the city of
    Perm by Ilya Ruderman.
 
 Note that the above does not apply to internet typography, where it's more of a
