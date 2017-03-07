@@ -76,6 +76,6 @@ urbanistically, the entire building becomes an urban quarter of a new kind.
 > <cite>Stanford Kwinter</cite>, Introduction to _Urbanism After Innocence:
 > Four Projects_ in Assemblage 18
 
-## Links
+## See also
 
 * [Rem Koolhaas](rem_koolhaas)

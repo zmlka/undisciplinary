@@ -145,7 +145,7 @@ Talking about his first encounter with a constructivist urban plan:
 > <cite>Sarah Whiting</cite>, interview with Monika Mitášová, in :[Oxymoron and
 > Pleonasm](http://www.amazon.co.uk/gp/product/1940291410/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1940291410&linkCode=as2&tag=zmlka-21&linkId=BX24NNXQQ2N2FN5F)
 
-## Links
+## See also
 
 * [OMA](oma) - OMA page, split for I dunno why.
 * [Interview at index magazine](http://www.indexmagazine.com/interviews/rem_koolhaas.shtml)

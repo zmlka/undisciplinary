@@ -61,6 +61,8 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Martin Heidegger](heidegger)
 * [Object Oriented Ontology](ooo)
 * [Office for Metropolitan Architecture](oma)
+* [Parametricism](parametricism)
+* [Patrik Schumacher](patrik_schumacher)
 * [Peter Eisenman](peter_eisenman)
 * [Reading Architecture: Frequently Recommended Books](read_architecture)
 * [Reyner Bahnam](reyner_banham)
