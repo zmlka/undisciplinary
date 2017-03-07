@@ -314,11 +314,140 @@ established in the mass media plane as well.
 I believe that any major reputation out in the world is initially built within
 the field, which was Zaha's case as well as mine, through lectures,
 publications, academia, exhibitions and the like. What is positive is that
-there I have a strong wave of support from friends, peers and critics
+there I have a strong wave of support from friends, peers and critics who would
+not like to see us disintegrate.
 
-<!---
-27:30
--->
+**H:**I'd like to ask a little bit about the notion of the DNA that Zaha. I'd
+like to ask how she mentored young architects in the firm. In particular I am
+interested in how she mentored women, although I know that she never wanted to
+make a big deal out of that. There was a beautiful article in the New York
+Times by Tegan Bukowski, where she talked about how Zaha was always
+encouraging. Could you talk a little more about that?
+
+**P:** She's been a teacher all her life. She was teaching with Rem and Illia
+and then took over the unit, going straight from student into teacher mode. She
+taught from the early 80's at the AA, then she was invited to Columbia.
+Afterwards we did studios together in America. For the last 15 years she was a
+professor in Vienna. We frequently taught together.
+
+Teaching was the main arena where we drew our staff because that's the
+training ground for people and a talent search for us. We hired extensively her
+students from Yale, Harvard, Vienna… as well as my students from the DLR at the
+AA, where I've been teaching for 20 years.
+
+In schools is where you have a direct line to young architects to the star of
+Zaha Hadid, which was a direct and close relationship which continued in the
+office. Her students were a group of people she kept wanting to work with.
+
+In the firm we have three profit centres led by major long-standing staff
+leaders. These three clusters hold contracts and projects.
+
+We also have what is called the ZH cluster, which is myself and Zaha together
+with students and ex-students creating a front-end design milieu with us
+mentoring the design. She didn't make any difference between male and female
+students, the group is roughly 50/50. I don't think there was a particular
+interest in mentoring women. We were always oriented towards what we can
+achieve, not pedagogy. Even my teaching was never pedagogy, it was a research
+oriented venture.
+
+**H:** Question about what Zaha was like in private, outside of the public
+image.
+
+I won't transcribe this answer, as it is personal and deserves listening to.
+Starts at minute 31. It covers her love of art, fashion, and her broad network
+of friends who she was very loyal and intimate with.
+
+**H:** Moving forward, knowing that Zaha was closely involved with all the
+projects, can you talk a little bit about how Zaha Hadid Architects will work
+moving forwards, and mention some of the expansions in to other cities that we
+read about today in the New York Times?
+
+**P:** I'm looking at a historical trajectory. We have to look at the nearly 50
+years of modernism which changed the physiognomy of this planet, which started
+in 1919/20 perhaps, at the Bauhaus and with Le Corbusier. We have all these
+heroes that created a new paradigm or style that ranged from urbanism to
+architecture through interiors deign and product design. It resulted in a total
+make over after decades of work. For me, this is a paradigm that ground to a
+halt in the late 70's, perhaps even earlier through post-modernism and
+deconstructions.
+
+The searching of post-modernism, the richness of architectural form and making
+it speak and the re-inhabitation of cities after decades of spreading out into
+suburbs is also the problematic of deconstruction, with its layering, making
+complex and intensification. Out of this evolved what we now call
+Parametricism.
+
+There is a trajectory form fundamentally new repertoires in a new condition
+which I call post-XXX?-network society. You start with this avant-garde
+searching, in an almost art-space and you tease out first manifesto projects
+which aren't deliverable but still point to new possibilities. We did that for
+a decade, just like Modernism in the 20's which was first just sketches, then
+evolved to small pavilions (Barcelona Pavilion), and only then it started to
+scale up with larger buildings and really ripped across the globe. That's my
+ambition and vision. We've matured the work from a manifesto building like
+Vitra and all these exhibition spaces pavilions into large scale mature
+projects which deliver a new degree of fluidity, complexity and dynamism into
+major cultural centres, airports, train stations… This a real attempt to roll
+out and with that maturing from avant-garde into mainstream comes a
+disciplining of the work which also needs to be aestheticised as a sort of
+artistic refinement where these kind of new complex and information rich and
+resonating forms which are inter-articulating and communicating in our
+discipline through engineering logics, structural logics. In the last years we
+moved away from the relative arbitrariness of nurb-surfaces of and blob-figures
+into, let's say, more disciplined (but still in the same spacial mode)
+compositions: arrays of shells, tensile structures. When we come to towers we
+have façades whose shells are driven by a structural logic of window
+perforations and maybe shading elements which radiate around and represent the
+various environmental conditions, internal logics of social processes, flows of
+people, gatherings and dispersals that we are now modelling with crowd
+simulations. 
+
+It's a maturing that you can feel. In a sense it loses some of that sketchy,
+nearly cartoon like wilfulness which is a necessity for when initially
+attempting to state how you can imagine a form to how you can build a form, but
+not yet with rationalising logics which put an economic and pragmatic
+constraints that are now flowing in. You feel and see it in the work, and
+that's what I'm pushing for. The push into the mainstream, along with new
+computations, simulations, form-finding techniques. This will proliferate the
+range of formal characters we are going to generate.
+
+It also means that we will have to leave behind the initial Zaha signature
+which came out the particular constraints of her kind of working. I feel that a
+signature recognisability is always in fact some kind of a limitation. It's not
+that one desires to have that, and Zaha was always fighting this, but it is
+unavoidable. You have certain routines and you can't jump out of your skin. It
+makes your product recognisable in ways that are self-limiting. Sometimes
+clients would like to see that, but we don't. We would like to suffuse into a
+great paradigm where we don't need to distinguish our project from another
+parametric project. That's the way I am driving. That's the way Zaha was
+driving. Often times we have to rule by general principles, to bracket and
+channel, but also by taboos. No more tilted walls, no more linear light-lines,
+no more series of things which became clichés within the firm. Don't rely
+any more only on white, especially glossy white. We went through that.
+
+There really is the urge to innovate and enrich the work so that it becomes not
+that recognisable anymore as a Zaha Hadid project. She also felt like that, she
+was worried about the recognisability because it meant that it wasn't
+principled and innovative enough but was locked in our particular
+methodological constraints. We are trying to break through. We established
+CODE, Computation Group, where we have a number of people doing pure research
+into geometry, application logic, we read scientific papers, we collaborate
+with engineers and other disciplines. That is the way forward in ensuring the
+repertoire is made into a global best practice paradigm. We want to win
+projects (such as the recent Beijing Airport win) where you don't only have to
+point towards future potentials, but realising lightness, legibility,
+productivity and competing not with a promise but delivering a global best
+practice. 
+
+That's where we are going, which means we are also building a professional
+organisation. We head-hunted a few people, but are concentrating on growing our
+own people.
+
+**H:** Question about how Parik is handling the loss personally, after knowing
+Zaha for almost 30 years, how he is working through it.
+
+Similarly to above, not transcribing the personal section of the response.
+Personal, and should be listened to instead of read. Starts at 41:30.
 
 
 
