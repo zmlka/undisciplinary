@@ -28,7 +28,7 @@ remember the first time you met her?
 **P:** Yeah. I had heard about Zaha when I was a young student in the 80's and
 seen some of the first publications coming out that were a shock and a
 revelation. There was a brochure called _Planetary Architecture_ which was
-published by the AA and which showed up in our university library, and I think
+published by the AA and that showed up in our university library, and I think
 there were also some articles in newspapers which were the first things I saw.
 Then, in 85 I think, there was the GA, _Global Architecture_, coming out with
 all the early works, including the Peak which was really opening up the
@@ -37,18 +37,20 @@ gave a new dimension to what architecture might become, and I was fascinated.
 
 Not so much later I made my way to London and became a student there. I saw
 Zaha for the first time in person at the 1988 pre-conference anticipating the
-MoMA Deconstructivist show.
+MoMA Deconstructivist show[^1].
+[^1]: The [1988 MoMA Deconstructivist Show](https://www.moma.org/calendar/exhibitions/1813?locale=en) curated by Philip Johnson and Mark Wigley.
 
-Obviously the work of Zaha, Coop-himmelblau and Bernard Tschumi were references
+Obviously the work of Zaha, Coop-Himmelb(l)au and Bernard Tschumi were references
 that I was getting into while in Stuttgart, and then in London at the South
 Bank there was an earlier publication where some of this work was shown under
 the title of ‘The new spirit in architecture’ in the _Architectural Review_
-magazine. My teacher at the South Bank, Kevin R???, was also a part of that
-group.
+magazine. My teacher at the South Bank, Kevin Rhowbotham, was also a part of that
+group[^2].
+[^2]:['The New Spirit' by E.M. Farrelly](https://www.architectural-review.com/rethink/viewpoints/1986-august-the-new-spirit-by-em-farrelly/8611912.article), 1986
 
 For us at the time, Zaha Hadid was the absolute hotshot and a figure, but we
-had not encountered her. She wasn't teaching at the AA anymore, although I was
-hanging aroudn the AA for seminars and lectures.
+had not encountered her. She wasn't teaching at the AA any more, although I was
+hanging round the AA for seminars and lectures.
 
 So I first saw her at the Tate conference. Although I knew her work already
 what convinced me at that moment was her openness, frankness and genuineness,
@@ -61,7 +63,7 @@ admiration for her work, which was a kind of enigma for me at the time.
 Right there, as I was finishing my year at the South Bank, I decided to stay in
 London and joined the office that Summer. I interviewed at her office by
 knocking at the door with my portfolio, with one of the few employees, at the
-time Chief Designer Michael Wolfson???, who hired me on the spot.
+time Chief Designer Michael Wolfson, who hired me on the spot.
 
 **H:** So it progressed pretty quickly from you meeting her to you finding
 yourself working with her.
@@ -75,7 +77,7 @@ perspective of her working style change.
 German firm, and I didn't have any conceptions. Maybe I heard some myths about
 what it would be like working there, but they were pretty quickly scattered or
 rather shattered. It was surprising how small the place was – I believe it was
-5 people all together.
+five people all together.
 
 Initially Zaha would show up relatively late, she would tease her
 employees, and seemingly not work. Curiously, as a new employee in a very small
@@ -102,8 +104,9 @@ first three or four weeks of doing nothing we suddenly entered production mode.
 For a long time it was always like this. An ebb and flow with basically one
 project at a time, one competition at a time, until the end of the year or the
 beginning of the next, when Rolf Fehlbaum from Vitra stepped in and I ended up
-being given the project. It was my first experience designing something which
+being given the project[^fire]. It was my first experience designing something which
 wasn't a competition.
+[^fire]: The Vitra Frie Statsion.
 
 So that was the early days. In these charrette-modes when we met and fought
 over designs Zaha would also pull all nighters with us, and we would then just
@@ -116,13 +119,17 @@ figure having just landed there.
 When there were competitions, people who had been working with Zaha earlier,
 going back to The Peak years would join and become a force. We worked like this
 for many years. Sometimes, when there was a real project with a real client,
-like in Dusseldorf, we started to hire and the office mushroomed up to 20
+like in Dusseldorf[^media], we started to hire and the office mushroomed up to 20
 people employed, and then it would shrink back down again. This happened again,
-for example, with Cardiff.
+for example, with Cardiff[^cardiff].
+[^media]: The [Zollhof Meida Park](http://www.zaha-hadid.com/masterplans/zollhof-media-park/)
+[^cardiff]: [The Cardiff Bay Opera House](http://www.zaha-hadid.com/architecture/cardiff-bay-opera-house/)
+
 
 Basically from '88 to the late 90's, during that decade we only had Vitra and
-another building in Weil am Rhein. Two buildings completed during the whole
+another building in Weil am Rhein[^landscape]. Two buildings completed during the whole
 decade. Otherwise it was abortive projects or lost competitions.
+[^landscape]:[The Landscape Formation One](http://www.zaha-hadid.com/architecture/landesgardenschau-landscape-formation-one/)
 
 **H:** Patrik, going back to the early days when you first started working at
 Zaha's office, you mentioned that there was very little work or not much to do,
@@ -131,13 +138,14 @@ and most recognised architects, even when there wasn't much work to show for?
 
 **P:** Yes, I think so.
 
-First of all, The Peak was a major milestone and the competition win against
+First of all, The Peak[^peak] was a major milestone and the competition win against
 the whole line-up of top architects. She actually re-drew and built up the
 project into a compelling suite of renderings and perspectives. With each of
 the projects there was this incredible urge to beat everybody, to show absolute
 excellence and perfectionism, and an incredible drive. The force of energy
 could at time explode into negative energy, because the will to succeed and
 excel was so immense.
+[^peak]:[The Peak Leisure Club](http://www.zaha-hadid.com/architecture/the-peak-leisure-club/)
 
 She always felt to be this larger than life star figure. I think she was a star
 as a student already, in her own mind and in the mind of her peers and
@@ -158,21 +166,27 @@ were large signature projects on waterfronts which were to be realised. She had
 that killer instinct at the time. I developed it much later, in the late 90's
 after having lost a series of major competitions.
 
-I had started DRL in '96 and had taught at a number of studios, first in
+I had started DRL[^drl] in '96 and had taught at a number of studios, first in
 Columbia and then Harvard, in Chicago also, in the early to mid 90's. That was
 my world, the world of peers. For me it didn't make much of a difference if
 something was built or just drawings and renderings that were pushing the
 discipline further. Only towards the end of the 90's I somehow changed track
 and really wanted to win a competition.
+[^drl]:[The Digital Research Laboratory](http://drl.aaschool.ac.uk/) at the AA.
 
 That was the point when we slightly scaled back our ambitions, became more
 more conscientious, and we started aiming to win.
 
-We nailed three major competitions: the Rome competition, the Cincinnati
-competition and the Bergisel competition; shortly after also nailing the Salermo
-competition (which, by the way, is now opening 16 years later). This was a
-conscious effort to bring home all this research and flamboyance into
-compelling winning schemes, which happened in '98/'99.
+We nailed three major competitions: the Rome competition[^maxxi], the
+Cincinnati[^cac] competition and the Bergisel[^ski] competition; shortly after also
+nailing the Salerno[^salerno] competition (which, by the way, is now opening 16 years
+later). This was a conscious effort to bring home all this research and
+flamboyance into compelling winning schemes, which happened in '98/'99.
+[^maxxi]: The [MAXXI Museum](http://www.fondazionemaxxi.it/en/)
+[^cac]: [The Contemporary Arts Center](https://www.contemporaryartscenter.org/)
+[^ski]: [The Bergisel Ski Jump](http://www.zaha-hadid.com/architecture/bergisel-ski-jump/)
+[^salerno]:[The Maritime Terminal Salerno](http://www.zaha-hadid.com/architecture/maritime-terminal-salerno/), completed in 2016
+
 
 **H:** So Patrik, you mentioned you being more concerned with the ideas aspect
 of the practice, with Zaha having the killer drive. I'm wondering how that
@@ -186,11 +200,12 @@ to build.
 **H:** Within the office, how would your collaborative relationship work?
 
 I think from the very beginning, even before the Peak, perhaps from the Irish
-Prime Minister's house, which was our first signature design where Zaha came
-out with a unique voice in the field, circa 1979/80, what I see reflecting back
-is that there was always a very collaborative and collective effort. A lot of
-energy. Of course also controlling, but always encouraging a flow and flourish
-of alternatives.
+Prime Minister's house[^irish], which was our first signature design where Zaha
+came out with a unique voice in the field, circa 1979/80, what I see reflecting
+back is that there was always a very collaborative and collective effort. A lot
+of energy. Of course also controlling, but always encouraging a flow and
+flourish of alternatives.
+[^irish]:[The Irish Prime Minister's Residence](http://www.zaha-hadid.com/architecture/irish-prime-ministers-residence/)
 
 That kept going. Perhaps this is different form some of the other star
 architects, and is maybe why the work is more diverse and proliferous, than
@@ -215,7 +230,7 @@ really going for?
 
 **P:** She didn't take it so lightly. She was hit hard by negative criticism
 all the way through, in particular the loss of a project like Cardiff was very
-hard. She felt misunderstood and it really was a downer. 
+hard. She felt misunderstood and it really was a downer.
 
 I'm very different. It never touched me – I have very thick skin, which maybe
 allowed me to bear the intensity inside the office. Which also meant that
@@ -447,9 +462,9 @@ own people.
 Zaha for almost 30 years, how he is working through it.
 
 Similarly to above, not transcribing the personal section of the response.
-Personal, and should be listened to instead of read. Starts at 41:30.
+Starts at 41:30.
 
-… In the office there is a sense that you have to break through in the next few
+**P:** … In the office there is a sense that you have to break through in the next few
 months … We see ourselves as a mother ship of a whole movement. There are so
 many co-evolving, co-protagonists in the new paradigm of computationally
 empowered design inteligence. For the past 20 years there has been a feeling of
@@ -469,9 +484,10 @@ large firm.
 I like the idea of a supergroup or an umbrella organisation, as I've always
 had felt regret when looking at what happened at a firm like OMA, which has
 lost so many of it's great protagonists who then had to step back and establish
-themselves from scratch to build a similar size to OMA. With several of these
+themselves from scratch to build a similar size to OMA[^oma]. With several of these
 firms, I sometimes wonder how it would have been if they had all stayed
 together and not lost the time.
+[^oma]:OMA is a well known breeding ground for future success. The founders of firms like BIG, REX, Foreign Office Architects, MVRDV, Studio Gang, etc, etc, are all OMA alumnus.
 
 I've always been a great admirer of firms like Foster+Partners as well as
 Richard Rogers, with their incredible intricacy of detail and perfection of
@@ -479,7 +495,7 @@ products. We have to set ourselves against that, but also with a
 differentiation. The idea of Foster is that you have a global design brand 
 that delivers into nearly major city of the world the top address, the top
 leading edge institution or building, is where I see our avant-garde into
-mainstream heading. 
+mainstream heading.
 
 If we manage go through what might be a very very tough 6 to 12 months, the
 ambition is to grow this firm into a whole new type of firm with an
