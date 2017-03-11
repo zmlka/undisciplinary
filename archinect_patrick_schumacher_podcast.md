@@ -33,18 +33,19 @@ there were also some articles in newspapers which were the first things I saw.
 Then, in 85 I think, there was the GA, _Global Architecture_, coming out with
 all the early works, including the Peak which was really opening up the
 discipline, in my imagination, to something totally unheard of and unseen. It
-gave a new dimension to what architecture might become, and I was fascinated.
+gave a new dimension to what architecture might become. I was fascinated.
 
 Not so much later I made my way to London and became a student there. I saw
 Zaha for the first time in person at the 1988 pre-conference anticipating the
 MoMA Deconstructivist show[^1].
 
-Obviously the work of Zaha, Coop-Himmelb(l)au and Bernard Tschumi were references
-that I was getting into while in Stuttgart, and then in London at the South
-Bank there was an earlier publication where some of this work was shown under
-the title of ‘The new spirit in architecture’ in the _Architectural Review_
-magazine. My teacher at the South Bank, Kevin Rhowbotham, was also a part of that
-group[^2].
+I had been aware of the work which was the to be called Deconstructivism even
+before the event. The work of Zaha, Coop-Himmelb(l)au and Bernard Tschumi were
+references that I was getting into while already in Stuttgart and later in
+London at the South Bank. There was an earlier publication where some of this
+work was shown under the title of ‘The new spirit in architecture’ in the
+_Architectural Review_ magazine. My teacher at the South Bank, Kevin
+Rhowbotham, was also a part of that group[^2].
 
 For us at the time, Zaha Hadid was the absolute hotshot and a figure, but we
 had not encountered her. She wasn't teaching at the AA any more, although I was
