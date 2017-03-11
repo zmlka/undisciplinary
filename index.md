@@ -70,6 +70,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Rem Koolhaas](rem_koolhaas)
 * [Sigmund Freud](sigmund_freud)
 * [Steven Holl](steven_holl)
+* [Syntactical Conventions](syntactical_conventions)
 * [Thomas Pynchon](thomas_pynchon)
 * [Walter Gropius](walter_gropius)
 

@@ -449,6 +449,49 @@ Zaha for almost 30 years, how he is working through it.
 Similarly to above, not transcribing the personal section of the response.
 Personal, and should be listened to instead of read. Starts at 41:30.
 
+… In the office there is a sense that you have to break through in the next few
+months … We see ourselves as a mother ship of a whole movement. There are so
+many co-evolving, co-protagonists in the new paradigm of computationally
+empowered design inteligence. For the past 20 years there has been a feeling of
+being submerged in a collective movement, and we are close to the
+co-protagonists. The tie will become even closer, and maybe we can establish
+collaboration with some of these figures who have pushed forward with research
+but haven't established their own office yet.
+
+I always felt a mentor of a larger movement, something like a group of 400 who
+should now reach out to more collaborators. I have visions of a generous open
+house and platform, perhaps evolving into a new kind of organisation that
+allows for internal stars and protagonists. Bringing in some of the
+co-protagonists would would allow their ideas to form quicker than if they had
+to go through the whole trajectory of them going form a small to a medium and
+large firm.
+
+I like the idea of a supergroup or an umbrella organisation, as I've always
+had felt regret when looking at what happened at a firm like OMA, which has
+lost so many of it's great protagonists who then had to step back and establish
+themselves from scratch to build a similar size to OMA. With several of these
+firms, I sometimes wonder how it would have been if they had all stayed
+together and not lost the time.
+
+I've always been a great admirer of firms like Foster+Partners as well as
+Richard Rogers, with their incredible intricacy of detail and perfection of
+products. We have to set ourselves against that, but also with a
+differentiation. The idea of Foster is that you have a global design brand 
+that delivers into nearly major city of the world the top address, the top
+leading edge institution or building, is where I see our avant-garde into
+mainstream heading. 
+
+If we manage go through what might be a very very tough 6 to 12 months, the
+ambition is to grow this firm into a whole new type of firm with an
+expansionary spirit. We very lucky in what might have been a slightly
+delusional period between 2004 to 2008, when we grew from a firm of 70 people
+to 450. That had a lot to do with my nearly reckless optimism and
+making-things-happen attitude. If there is another wave of normalisation after
+our current climate, my ambition is to make an insanely great larger umbrella
+firm.
+
+
+
 
 
 

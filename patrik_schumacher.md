@@ -13,3 +13,5 @@ tags: architecture, quotes, architect, Zaha Hadid, Parametricism
 
 * [Parametricism](parametricism)
 
+
+
