@@ -2,7 +2,7 @@
 layout: default
 title: Reiner de Graaf - the Risk of Realism
 tags: architecture, history, theory, AA, lecture, OMA, AMO
-snippet: Notes from a Reinder de Graaf's lecture about current work and the danger of the loss of utopic thinking at the AA.
+snippet: Notes from Reinder de Graaf's lecture about current work and the danger of the loss of utopic thinking at the AA.
 ---
 
 _25.11.2014, Architectural Association, London_

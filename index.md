@@ -9,7 +9,7 @@ Zemlicka](http://www.zmlka.com)_
 
 ## Lectures
 
-Lecture notes, in sorted by date of genesis:
+Lecture notes, sorted by date of writing:
 
 * [Christian Kerez in Prague](christian_kerez_prague)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
@@ -24,6 +24,7 @@ Lecture notes, in sorted by date of genesis:
 * [Pier Vittorio Aureli: after the diagram](aureli_diagram)
 * [Reiner de Graaf: the risk of realism](reiner_de_graaf_risk_realism)
 * [Karel Císař: public sculpture](karel_cisar_public_scuplture)
+* [Virgil Abloh: “Everything in Quotes”](virgil_abloh_everything_quotes)
 
 ## Hypomnema
 
