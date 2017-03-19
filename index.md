@@ -34,6 +34,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Arata Isozaki](arata_isozaki)
 * [Architecture is](architecture_is)
 * [Beartriz Colomina](beatriz_colomina)
+* [Bjarke Ingels](bjarke_ingels)
 * [Bon mots](bon_mots)
 * [Boris Groys](boris_groys)
 * [Brutalism](brutalism)
