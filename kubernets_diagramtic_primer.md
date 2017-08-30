@@ -4,7 +4,7 @@ title: Kubernetes: A Diagramatic Primer
 tags: Kuberenets, AWS, High Availability, Guide, Beginner, Architecture, HA
 ---
 
-_*Note*: I am far from a Kubernetes expert. This guide was written based on an
+_ NOTE: I am far from a Kubernetes expert. This guide was written based on an
 introduction given by [Jakub Scholz](https://github.com/scholzj). This is
 something I wrote so as to not forget it._
 
@@ -15,7 +15,6 @@ that the guide does not actually show how to perform anything, it only shows
 how things work conceptually.
 
 So what is Kubernetes (k8s[^1])?
-[^1]: Kubernetes -> k`12345678`s -> k8s
 
 In short, it is something that helps you deploy and run high availability
 applications in the cloud (be that with a provider or on your own
@@ -91,6 +90,7 @@ However, we _don't want_ Masters to be distributed or duplicated – there shoul
 only ever be one Master leading (ie: Masters don't scale).
 
 Security Groups (SG) are **TODO**
+
 Note that Security Groups are bound to subnets, hence why we have a total of 6
 of them.
 
@@ -212,3 +212,4 @@ Components:
   - ??
 
 
+[^1]: Kubernetes -> k`12345678`s -> k8s
