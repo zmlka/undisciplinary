@@ -53,6 +53,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Infinite Jest](infinite_jest)
 * [Jacques Herzog](jacques_herzog)
 * [Kenneth Frampton](kenneth_frampton)
+* [Kubernetes: A Diagramatic Primer](kubernets_diagramtic_primer)
 * [Ladislav Žák](ladislav_zak)
 * [Louis Camnitzer](louis_camnitzer)
 * [Ludwig Mies van der Rohe](mies_van_der_rohe)
