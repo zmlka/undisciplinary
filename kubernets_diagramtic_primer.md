@@ -17,7 +17,7 @@ how things work conceptually.
 So what is Kubernetes (k8s[^1])?
 
 In short, it is something that helps you deploy and run high availability
-applications in the cloud (be that with a provider or on your own
+containerised applications in the cloud (be that with a provider or on your own
 infrastructure). It does this through various mechanisms explained on the
 landing page of [Kubernetes' website](https://kubernetes.io/), but the core of
 it is that running applications in a cloud poses unique problems and
@@ -54,8 +54,7 @@ within those regions.
 
 Ideally, you want your applications distributed across different Availability
 Zones within your chosen region in case anything goes wrong in one Availability
-Zones. For our High Availability Kubernetes example, we will be using the
-maximal number of Availability Zones offered in any given region: 3.
+Zones. For our High Availability Kubernetes example, we will be using 3.
 
 ### Subnets, Auto Scaling Groups and Security Groups
 
@@ -66,19 +65,18 @@ placed in as you can't have subnets across Availability Zones.
 
 Next up are Auto Scaling Groups (ASG). Auto Scaling Groups are a mechanism that
 allows you to set conditions under which resources are spun up or down
-depending on current demand. Auto Scaling Groups (and their non-AWS
-counterparts) is a core «cloud» concept at the very heart of what allows
-Kubernetes to be effective.
+depending on current demand. Scaling is a core «cloud» concept at the very
+heart of what allows Kubernetes to be effective.
 
-It takes advantage of the speed and easy with which you can provision Vritual
-Machines these days, turning them into a disposable commodity. When procuring
-infrastructure is a question of minutes, it makes sense to have your
-infrastructure dynamically change depending on the current situation. You no
+It takes advantage of the speed and easy with which you can provision
+infrastructure these days, turning them into a disposable commodity. When
+procuring infrastructure is a question of minutes, it makes sense to have your
+systems dynamically change depending on the current situation. You no
 longer have to have a static setup waiting for peak conditions, instead your
 setup is always adjusting to actual loads.
 
 For example, if during peak processing times your Virtual Machines (EC2
-instances) are running at full CPU capacity, Auto Scaling will spin up more EC2
+instances) are running out of RAM, Auto Scaling will spin up more EC2
 instances to take off the load. When the capacity is not needed, the new EC2
 instances will be turned off.
 
