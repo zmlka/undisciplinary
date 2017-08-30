@@ -110,12 +110,10 @@ Grateful Dead's Blues for Allah depicts a skeleton playing a violin).
 > expense, though he's barred by deLint and Nwangi from shirts that mention the
 > Sinn Fein or that extol Allston MA in any way, in competition.
 
+## See Also
 
-
-
-
-
-
+- [What Happens at the End of Infinite Jest?](http://www.aaronsw.com/weblog/ijend) 
+  by the late Aaron Schwartz. I subscribe to this theory.
 
 
 

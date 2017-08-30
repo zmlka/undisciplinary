@@ -4,7 +4,7 @@ title: Kubernetes: A Diagramatic Primer
 tags: Kuberenets, AWS, High Availability, Guide, Beginner, Architecture, HA
 ---
 
-_ NOTE: I am far from a Kubernetes expert. This guide was written based on an
+_NOTE: I am far from a Kubernetes expert. This guide was written based on an
 introduction given by [Jakub Scholz](https://github.com/scholzj). This is
 something I wrote so as to not forget it._
 
