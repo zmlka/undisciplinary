@@ -24,6 +24,7 @@ that the guide does not actually show how to perform anything, it only shows
 how things work conceptually. It also skips quite a lot, maybe too much, but
 hopefully not to get an understanding.
 
+* toc
 {:toc}
 
 So what is Kubernetes (k8s)[^1]?
