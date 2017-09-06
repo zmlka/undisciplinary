@@ -30,7 +30,7 @@ about typography. I will never design anything other than personal projects, so
 it is easier for me to have a go to list of «good enough» instead of torturing
 out an eventual bad decision.
 
-So I am sifting, results below. Ordered in terms of least likeliness
+So I am sifting. Results below. Ordered in terms of least likeliness
 to be removed from the list after more sifting.
 
 1. **Berthold Baskerville** – Extremely clean, lovely italics. Legible.
