@@ -232,7 +232,7 @@ order to be able to operate. Now, we will describe some of the tools that
 Kubernetes provides and works with that allow you to manage application
 deployment.
 
-## Pods
+### Pods
 
 Pods are Kubernetes' units of work. In reality, this means that a pod is a
 scalable unit of one or more containers that perform a specific role. For
@@ -255,7 +255,7 @@ wants to communicate with a webserver, and it does not want to keep track of
 the various webserver pod replicas.
 
 In a traditional setup, such a scenario would be handled by having a load
-balancer in front of your pod repicas and having the load balancer figure out
+balancer in front of your pod replicas and having the load balancer figure out
 routing to the pods. Similarly, if you wanted to inspect all replicas you'd
 have to find out information about which replicas are actually running and only
 then query based off that information.
@@ -263,7 +263,7 @@ then query based off that information.
 In Kubernetes, this level management is abstracted away through assigning
 Labels to your pods and grouping them into Services.
 
-## Labels
+### Labels
 
 Labels are key-value pair that you can assign resources in Kubernetes.
 Basically, they allow you to tag your pods, and you can run commands targeting
@@ -274,7 +274,7 @@ Labels are arbitrary, allowing you to customise as necessary. Label selectors
 are also quite powerful, allowing you to select resources based on inclusion,
 exlcusion, set membership, etc.
 
-## Services
+### Services
 
 Like labels allow you to tag resources, Services is a slightly richer pod
 grouping mechanism, allowing you to not only set «tags», but also to specify
@@ -294,7 +294,7 @@ In summary, Services are the very core of what allows you to treat pods as
 disposable resources, scaling them up and down as Kubernetes pleases. They act
 as a load balancer between replicas.
 
-## Namespaces
+### Namespaces
 
 So far, we have been treating our cluster as a unified group of pods that can
 all communicate between each other. However, what if you want to run multiple
