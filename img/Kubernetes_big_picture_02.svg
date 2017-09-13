@@ -56,7 +56,7 @@
 			<stop offset="0" stop-color="#fefefe" stop-opacity="1"/>
 			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-116" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+		<linearGradient id="grad0-130" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
 			<stop offset="0.01" stop-color="#bfbfbf" stop-opacity="1"/>
 			<stop offset="0.5" stop-color="#757575" stop-opacity="1"/>
 			<stop offset="1" stop-color="#bfbfbf" stop-opacity="1"/>
@@ -173,7 +173,7 @@
 					<text x="6" y="832.73" class="st2">Subnet</text>				</g>
 			</g>
 		</g>
-		<g id="group1644-77" transform="translate(45.3543,-184.252)">
+		<g id="group1644-77" transform="translate(45.3543,-391.181)">
 			<title>Plain.1644</title>
 			<g id="group1645-78">
 				<title>Sheet.1645</title>
@@ -181,18 +181,18 @@
 					<title>Sheet.1646</title>
 				</g>
 				<g id="shape1645-81">
-					<path d="M0 841.89 L544.25 841.89 L1088.5 841.89 L1088.5 312.76 L544.25 312.76 L0 312.76 L0 841.89 Z"
+					<path d="M0 841.89 L544.25 841.89 L1088.5 841.89 L1088.5 519.69 L544.25 519.69 L0 519.69 L0 841.89 Z"
 							class="st5"/>
 				</g>
 			</g>
-			<g id="group1647-83" transform="translate(0,-503.622)">
+			<g id="group1647-83" transform="translate(0,-296.693)">
 				<title>Sheet.1647</title>
-				<desc>Security Group</desc>
+				<desc>Security Group – Worker Nodes</desc>
 				<g id="shape1648-84">
 					<title>Sheet.1648</title>
 				</g>
 				<g id="shape1647-88">
-					<text x="6" y="832.73" class="st2">Security Group</text>				</g>
+					<text x="6" y="832.73" class="st2">Security Group – Worker Nodes</text>				</g>
 			</g>
 		</g>
 		<g id="group1000-93" transform="translate(39.685,-382.677)">
@@ -217,91 +217,113 @@
 					<text x="6" y="832.73" class="st2">Auto Scaling Group – Worker Nodes</text>				</g>
 			</g>
 		</g>
-		<g id="group1005-106" transform="translate(40.8898,-176.486)">
-			<title>Plain.1005</title>
-			<g id="group1006-107">
-				<title>Sheet.1006</title>
-				<g id="shape1007-108" transform="translate(2.83465,2.83465)">
-					<title>Sheet.1007</title>
+		<g id="group1678-106" transform="translate(45.3543,-188.031)">
+			<title>Plain.1678</title>
+			<g id="group1679-107">
+				<title>Sheet.1679</title>
+				<g id="shape1680-108" transform="translate(2.83465,2.83465)">
+					<title>Sheet.1680</title>
 				</g>
-				<g id="shape1006-110">
-					<path d="M0 841.89 L163.81 841.89 L327.61 841.89 L327.61 661.82 L163.81 661.82 L0 661.82 L0 841.89 Z"
-							class="st6"/>
-				</g>
-			</g>
-			<g id="group1008-112" transform="translate(0,-154.555)">
-				<title>Sheet.1008</title>
-				<desc>Auto Scaling Group – Master 1</desc>
-				<g id="shape1009-113">
-					<title>Sheet.1009</title>
-				</g>
-				<g id="shape1008-117">
-					<text x="6" y="832.73" class="st2">Auto Scaling Group – Master  1</text>				</g>
-			</g>
-		</g>
-		<g id="group1010-120" transform="translate(430.866,-172.913)">
-			<title>Plain.1010</title>
-			<g id="group1011-121">
-				<title>Sheet.1011</title>
-				<g id="shape1012-122" transform="translate(2.83465,2.83465)">
-					<title>Sheet.1012</title>
-				</g>
-				<g id="shape1011-124">
-					<path d="M0 841.89 L163.81 841.89 L327.61 841.89 L327.61 658.25 L163.81 658.25 L0 658.25 L0 841.89 Z"
-							class="st6"/>
+				<g id="shape1679-110">
+					<path d="M0 841.89 L544.25 841.89 L1088.5 841.89 L1088.5 703.94 L544.25 703.94 L0 703.94 L0 841.89 Z"
+							class="st5"/>
 				</g>
 			</g>
-			<g id="group1013-126" transform="translate(0,-158.127)">
-				<title>Sheet.1013</title>
-				<desc>Auto Scaling Group – Master 2</desc>
-				<g id="shape1014-127">
-					<title>Sheet.1014</title>
+			<g id="group1681-112" transform="translate(0,-112.441)">
+				<title>Sheet.1681</title>
+				<desc>Security Group – Masters</desc>
+				<g id="shape1682-113">
+					<title>Sheet.1682</title>
 				</g>
-				<g id="shape1013-130">
-					<text x="6" y="832.73" class="st2">Auto Scaling Group – Master  2</text>				</g>
+				<g id="shape1681-116">
+					<text x="6" y="832.73" class="st2">Security Group – Masters</text>				</g>
 			</g>
 		</g>
-		<g id="group1015-133" transform="translate(814.961,-176.486)">
+		<g id="group1015-120" transform="translate(814.961,-176.486)">
 			<title>Plain.1015</title>
-			<g id="group1016-134">
+			<g id="group1016-121">
 				<title>Sheet.1016</title>
-				<g id="shape1017-135" transform="translate(2.83465,2.83465)">
+				<g id="shape1017-122" transform="translate(2.83465,2.83465)">
 					<title>Sheet.1017</title>
 				</g>
-				<g id="shape1016-137">
+				<g id="shape1016-124">
 					<path d="M0 841.89 L162.99 841.89 L325.98 841.89 L325.98 661.82 L162.99 661.82 L0 661.82 L0 841.89 Z"
 							class="st6"/>
 				</g>
 			</g>
-			<g id="group1018-139" transform="translate(0,-154.555)">
+			<g id="group1018-126" transform="translate(0,-154.555)">
 				<title>Sheet.1018</title>
 				<desc>Auto Scaling Group – Master 3</desc>
-				<g id="shape1019-140">
+				<g id="shape1019-127">
 					<title>Sheet.1019</title>
 				</g>
-				<g id="shape1018-143">
+				<g id="shape1018-131">
 					<text x="6" y="832.73" class="st2">Auto Scaling Group – Master 3</text>				</g>
 			</g>
 		</g>
-		<g id="shape1639-146" transform="translate(1248.38,5.66929) rotate(90)">
+		<g id="group1010-134" transform="translate(430.866,-172.913)">
+			<title>Plain.1010</title>
+			<g id="group1011-135">
+				<title>Sheet.1011</title>
+				<g id="shape1012-136" transform="translate(2.83465,2.83465)">
+					<title>Sheet.1012</title>
+				</g>
+				<g id="shape1011-138">
+					<path d="M0 841.89 L163.81 841.89 L327.61 841.89 L327.61 658.25 L163.81 658.25 L0 658.25 L0 841.89 Z"
+							class="st6"/>
+				</g>
+			</g>
+			<g id="group1013-140" transform="translate(0,-158.127)">
+				<title>Sheet.1013</title>
+				<desc>Auto Scaling Group – Master 2</desc>
+				<g id="shape1014-141">
+					<title>Sheet.1014</title>
+				</g>
+				<g id="shape1013-144">
+					<text x="6" y="832.73" class="st2">Auto Scaling Group – Master  2</text>				</g>
+			</g>
+		</g>
+		<g id="group1005-147" transform="translate(40.8898,-176.486)">
+			<title>Plain.1005</title>
+			<g id="group1006-148">
+				<title>Sheet.1006</title>
+				<g id="shape1007-149" transform="translate(2.83465,2.83465)">
+					<title>Sheet.1007</title>
+				</g>
+				<g id="shape1006-151">
+					<path d="M0 841.89 L163.81 841.89 L327.61 841.89 L327.61 661.82 L163.81 661.82 L0 661.82 L0 841.89 Z"
+							class="st6"/>
+				</g>
+			</g>
+			<g id="group1008-153" transform="translate(0,-154.555)">
+				<title>Sheet.1008</title>
+				<desc>Auto Scaling Group – Master 1</desc>
+				<g id="shape1009-154">
+					<title>Sheet.1009</title>
+				</g>
+				<g id="shape1008-157">
+					<text x="6" y="832.73" class="st2">Auto Scaling Group – Master  1</text>				</g>
+			</g>
+		</g>
+		<g id="shape1639-160" transform="translate(1248.38,5.66929) rotate(90)">
 			<title>Sheet.1639</title>
 			<path d="M0 841.89 L825.93 841.89" class="st7"/>
 		</g>
-		<g id="shape1640-149" transform="translate(1625.67,5.66929) rotate(90)">
+		<g id="shape1640-163" transform="translate(1625.67,5.66929) rotate(90)">
 			<title>Sheet.1640</title>
 			<path d="M0 841.89 L825.93 841.89" class="st7"/>
 		</g>
-		<g id="shape1641-152" transform="translate(247.465,-28.3465)">
+		<g id="shape1641-166" transform="translate(247.465,-28.3465)">
 			<title>Sheet.1641</title>
 			<desc>Availability Zone 1</desc>
 			<rect x="0" y="809.657" width="157.039" height="32.2327" class="st8"/>
 			<text x="61.21" y="829.37" class="st9">Availability Zone  1</text>		</g>
-		<g id="shape1642-155" transform="translate(510.236,-28.3465)">
+		<g id="shape1642-169" transform="translate(510.236,-28.3465)">
 			<title>Sheet.1642</title>
 			<desc>Availability Zone 2</desc>
 			<rect x="0" y="809.657" width="157.039" height="32.2327" class="st8"/>
 			<text x="33.96" y="829.37" class="st9">Availability Zone 2</text>		</g>
-		<g id="shape1643-158" transform="translate(786.047,-28.3465)">
+		<g id="shape1643-172" transform="translate(786.047,-28.3465)">
 			<title>Sheet.1643</title>
 			<desc>Availability Zone 3</desc>
 			<rect x="0" y="809.657" width="157.039" height="32.2327" class="st8"/>
