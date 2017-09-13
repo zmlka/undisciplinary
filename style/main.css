@@ -103,7 +103,7 @@ html{
   line-height: 1.5;
 }
 code{
-  font-family: Verdana, sans-serif;
+  font-family: Monaco, Consolas, monospace;
   color: #D41A1F;
 }
 
